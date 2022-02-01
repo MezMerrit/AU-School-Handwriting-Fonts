@@ -1,17 +1,18 @@
 # AU-Handwriting-Fonts
 
-Each Australian state teaches different handwriting in lower primary school. The names of the handwriting styles are as follows:
+Each Australian state teaches different handwriting style in lower primary school (some states share the same style). The names of the handwriting styles are as follows:
 
-Queensland - QBeginners & QCursive
-New South Wales - NSW Foundation Print
-Canberra - As per NSW
-Victoria - Modern Cursive Print
-Northern Territory - As per VIC
-Western Australia - As per VIC
-South Australia - SA Precursive Print
-Tasmania - TAS Precursive Print
+- Queensland: QBeginners & QCursive
+- New South Wales: NSW Foundation Print
+- Canberra: As per NSW
+- Victoria: Modern Cursive Print
+- Northern Territory: As per VIC
+- Western Australia: As per VIC
+- South Australia: SA Precursive Print
+- Tasmania: TAS Precursive Print
 
 # QLD School Fonts
+
 This specific font includes both:
 
 - Queensland Beginners Alphabet (QBeginner's) - a sloped print script for early primary school
