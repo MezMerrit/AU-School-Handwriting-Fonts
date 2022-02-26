@@ -7026,7 +7026,7 @@ unicode = 122;
 },
 {
 glyphname = a.sc;
-lastChange = "2022-02-26 19:44:27 +0000";
+lastChange = "2022-02-26 20:22:59 +0000";
 layers = (
 {
 guides = (
@@ -7244,10 +7244,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(253,159,l),
-(249,204,l),
-(135,204,l),
-(112,159,l)
+(253,155,l),
+(249,200,l),
+(135,200,l),
+(112,155,l)
 );
 },
 {
@@ -7271,6 +7271,7 @@ width = 372;
 );
 metricLeft = A;
 metricRight = A;
+changeCount = 4;
 },
 {
 glyphname = b.sc;
