@@ -1,25 +1,23 @@
-# AU-Handwriting-Fonts
+#AU-School-Handwriting-Fonts
 
-Each Australian state teaches different handwriting styles in lower primary school (some states share the same style). The names of the handwriting styles are as follows:
+Each Australian state teaches different handwriting styles in lower primary school (although some states do share the same style), in line with Department of Education Australia standards. The names of the handwriting styles are as follows:
 
-- Queensland: QBeginners & QCursive
-- New South Wales: NSW Foundation Print
-- Canberra: As per NSW
-- Victoria: Modern Cursive Print
-- Northern Territory: As per VIC
-- Western Australia: As per VIC
-- South Australia: SA Precursive Print
-- Tasmania: TAS Precursive Print
+- Queensland (QLD): QBeginners & QCursive
+- New South Wales (NSW): Foundation Print & Foundation Cursive
+- Tasmania (TAS): Beginner Print & Precursive Print
+- Australian Capital Territory (ACT): As per NSW
+- Victoria (VIC): Modern Cursive Print
+- Northern Territory (NT): As per VIC
+- Western Australia (WA): As per VIC
+- South Australia (SA): Precursive Print & Modern Cursive
 
-# QLD School Fonts
+There are essentially three stages involved with each state's styles:
+1. The foundational stage involves learning basic letter formation
+2. The transitional stage adds joining ligatures to some letters
+3. The cursive stage joins almost all letters (with some exceptions)
 
-This specific font includes both:
+The initial weight (300) of foundational font-sets included in this repo is intended to imitate the pencil thickness of actual handwriting, however they're also variable fonts so they may be adjusted up to Extra Bold weight (800), depending on usage requirements.
 
-- Queensland Beginners Alphabet (QBeginner's) - a sloped print script for early primary school
-- Queensland modern cursive (QCursive) - a sloped cursive script for middle primary school
+The foundational fonts contain alternate glyphs (or ligatures) for transitional stages to their full cursive counterparts, depending on usage requirements.
 
-Students in Queensland state schools learn handwriting styles in line with Department of Education standards; QBeginners from years 1 to 3 and QCursive from years 4 to 7. Accordingly, these fonts are designed using the recommended guidelines provided by Department of Education Queensland.
-
-# QLD Handguide
-
-Included in this repo is a handguide (QLD-Hanbook.pdf), provided to schools in QLD by Department of Education Queensland, which outlines the teaching methodology and other guides used to create this font.
+The full cursive counterparts are a future project. The initial weight (200) of full cursive font-sets will imitate ball point pen thickness and are envisaged to be variable fonts also (up to 800) for consistency. This part of development will involve testing software provided by a third party, hence the variability and overall design scope may differ, although consistency between the font-sets will remain a primary focus.
