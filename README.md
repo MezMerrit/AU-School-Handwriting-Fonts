@@ -1,4 +1,4 @@
-#AU-School-Handwriting-Fonts
+# AU School Handwriting Fonts
 
 Each Australian state teaches different handwriting styles in lower primary school (although some states do share the same style), in line with Department of Education Australia standards. The names of the handwriting styles are as follows:
 
