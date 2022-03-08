@@ -10,3 +10,5 @@ Students in New South Wales and Australian Capital Territory learn Foundation Pr
 # Progress Report
 
 Just completed readjusting letter widths and now adding some kerning in order to view the balance and decide what else needs to change.
+
+DB requested UFO file format as he doesn't use Glyphs App, so those files are now present in their respective folders.
