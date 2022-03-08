@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m.sc" format="2">
+	<advance width="532"/>
+	<outline>
+		<contour>
+			<point x="210" y="327" type="line"/>
+			<point x="207" y="396" type="line"/>
+			<point x="192" y="396"/>
+			<point x="186" y="388"/>
+			<point x="178" y="373" type="curve" smooth="yes"/>
+			<point x="3" y="39" type="line" smooth="yes"/>
+			<point x="-6" y="21"/>
+			<point x="3" y="0"/>
+			<point x="23" y="0" type="curve" smooth="yes"/>
+			<point x="31" y="0"/>
+			<point x="42" y="5"/>
+			<point x="50" y="21" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="256" y="50" type="line"/>
+			<point x="231" y="374" type="line" smooth="yes"/>
+			<point x="230" y="385"/>
+			<point x="224" y="396"/>
+			<point x="207" y="396" type="curve"/>
+			<point x="184" y="327" type="line"/>
+			<point x="208" y="24" type="line" smooth="yes"/>
+			<point x="209" y="11"/>
+			<point x="215" y="0"/>
+			<point x="232" y="0" type="curve"/>
+		</contour>
+		<contour>
+			<point x="231" y="0" type="line"/>
+			<point x="247" y="0"/>
+			<point x="254" y="8"/>
+			<point x="259" y="17" type="curve" smooth="yes"/>
+			<point x="421" y="327" type="line"/>
+			<point x="418" y="396" type="line"/>
+			<point x="405" y="396"/>
+			<point x="396" y="388"/>
+			<point x="391" y="378" type="curve" smooth="yes"/>
+			<point x="224" y="58" type="line"/>
+		</contour>
+		<contour>
+			<point x="443" y="367" type="line" smooth="yes"/>
+			<point x="442" y="384"/>
+			<point x="432" y="396"/>
+			<point x="418" y="396" type="curve"/>
+			<point x="396" y="327" type="line"/>
+			<point x="421" y="25" type="line" smooth="yes"/>
+			<point x="422" y="12"/>
+			<point x="430" y="0"/>
+			<point x="447" y="0" type="curve" smooth="yes"/>
+			<point x="463" y="0"/>
+			<point x="472" y="13"/>
+			<point x="471" y="28" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>M</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>M</string>
+		</dict>
+	</lib>
+</glyph>

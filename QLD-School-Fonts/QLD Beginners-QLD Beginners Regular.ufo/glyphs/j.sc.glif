@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.sc" format="2">
+	<advance width="237"/>
+	<outline>
+		<contour>
+			<point x="147" y="354" type="line"/>
+			<point x="96" y="354" type="line"/>
+			<point x="66" y="184" type="line" smooth="yes"/>
+			<point x="59" y="144"/>
+			<point x="52" y="108"/>
+			<point x="39" y="82" type="curve" smooth="yes"/>
+			<point x="32" y="68"/>
+			<point x="20" y="60"/>
+			<point x="-1" y="57" type="curve" smooth="yes"/>
+			<point x="-16" y="55"/>
+			<point x="-68" y="53"/>
+			<point x="-82" y="53" type="curve" smooth="yes"/>
+			<point x="-94" y="53"/>
+			<point x="-107" y="40"/>
+			<point x="-107" y="26" type="curve" smooth="yes"/>
+			<point x="-107" y="12"/>
+			<point x="-94" y="0"/>
+			<point x="-82" y="0" type="curve" smooth="yes"/>
+			<point x="-64" y="0"/>
+			<point x="-12" y="3"/>
+			<point x="-1" y="4" type="curve" smooth="yes"/>
+			<point x="43" y="10"/>
+			<point x="67" y="29"/>
+			<point x="82" y="55" type="curve" smooth="yes"/>
+			<point x="98" y="78"/>
+			<point x="113" y="159"/>
+			<point x="117" y="184" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="200" y="343" type="line" smooth="yes"/>
+			<point x="217" y="343"/>
+			<point x="226" y="356"/>
+			<point x="226" y="369" type="curve" smooth="yes"/>
+			<point x="226" y="382"/>
+			<point x="217" y="396"/>
+			<point x="200" y="396" type="curve" smooth="yes"/>
+			<point x="50" y="396" type="line" smooth="yes"/>
+			<point x="33" y="396"/>
+			<point x="24" y="384"/>
+			<point x="24" y="369" type="curve" smooth="yes"/>
+			<point x="24" y="354"/>
+			<point x="33" y="343"/>
+			<point x="50" y="343" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>J</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>J</string>
+		</dict>
+	</lib>
+</glyph>

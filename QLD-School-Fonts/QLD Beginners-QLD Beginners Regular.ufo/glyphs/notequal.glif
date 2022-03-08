@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="2">
+	<advance width="371"/>
+	<unicode hex="2260"/>
+	<outline>
+		<contour>
+			<point x="269" y="312" type="line" smooth="yes"/>
+			<point x="281" y="337"/>
+			<point x="269" y="350"/>
+			<point x="255" y="350" type="curve" smooth="yes"/>
+			<point x="245" y="350"/>
+			<point x="235" y="345"/>
+			<point x="229" y="333" type="curve" smooth="yes"/>
+			<point x="108" y="72" type="line" smooth="yes"/>
+			<point x="100" y="54"/>
+			<point x="108" y="42"/>
+			<point x="119" y="38" type="curve" smooth="yes"/>
+			<point x="129" y="35"/>
+			<point x="142" y="38"/>
+			<point x="148" y="51" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="290" y="97" type="line" smooth="yes"/>
+			<point x="308" y="97"/>
+			<point x="317" y="108"/>
+			<point x="317" y="120" type="curve" smooth="yes"/>
+			<point x="317" y="131"/>
+			<point x="308" y="142"/>
+			<point x="290" y="142" type="curve" smooth="yes"/>
+			<point x="63" y="142" type="line" smooth="yes"/>
+			<point x="45" y="142"/>
+			<point x="36" y="131"/>
+			<point x="36" y="120" type="curve" smooth="yes"/>
+			<point x="36" y="109"/>
+			<point x="45" y="97"/>
+			<point x="63" y="97" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="316" y="248" type="line" smooth="yes"/>
+			<point x="334" y="248"/>
+			<point x="343" y="260"/>
+			<point x="343" y="271" type="curve" smooth="yes"/>
+			<point x="343" y="282"/>
+			<point x="334" y="293"/>
+			<point x="316" y="293" type="curve" smooth="yes"/>
+			<point x="89" y="293" type="line" smooth="yes"/>
+			<point x="71" y="293"/>
+			<point x="62" y="282"/>
+			<point x="62" y="271" type="curve" smooth="yes"/>
+			<point x="62" y="260"/>
+			<point x="71" y="248"/>
+			<point x="89" y="248" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>

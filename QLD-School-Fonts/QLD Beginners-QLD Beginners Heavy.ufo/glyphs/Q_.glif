@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+	<advance width="547"/>
+	<unicode hex="0051"/>
+	<outline>
+		<contour>
+			<point x="304" y="172" type="line"/>
+			<point x="283" y="199"/>
+			<point x="248" y="204"/>
+			<point x="230" y="189" type="curve" smooth="yes"/>
+			<point x="211" y="174"/>
+			<point x="205" y="149"/>
+			<point x="223" y="122" type="curve" smooth="yes"/>
+			<point x="321" y="-21" type="line" smooth="yes"/>
+			<point x="339" y="-47"/>
+			<point x="371" y="-55"/>
+			<point x="392" y="-42" type="curve" smooth="yes"/>
+			<point x="418" y="-28"/>
+			<point x="420" y="1"/>
+			<point x="404" y="25" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="195" y="-4" type="curve" smooth="yes"/>
+			<point x="347" y="-4"/>
+			<point x="511" y="251"/>
+			<point x="542" y="429" type="curve" smooth="yes"/>
+			<point x="563" y="548"/>
+			<point x="498" y="652"/>
+			<point x="353" y="652" type="curve" smooth="yes"/>
+			<point x="215" y="652"/>
+			<point x="147" y="555"/>
+			<point x="105" y="410" type="curve" smooth="yes"/>
+			<point x="94" y="370"/>
+			<point x="85" y="325"/>
+			<point x="82" y="283" type="curve" smooth="yes"/>
+			<point x="70" y="150"/>
+			<point x="75" y="-4"/>
+		</contour>
+		<contour>
+			<point x="201" y="86" type="curve" smooth="yes"/>
+			<point x="164" y="86"/>
+			<point x="174" y="187"/>
+			<point x="181" y="269" type="curve" smooth="yes"/>
+			<point x="184" y="308"/>
+			<point x="192" y="348"/>
+			<point x="200" y="378" type="curve" smooth="yes"/>
+			<point x="235" y="505"/>
+			<point x="261" y="562"/>
+			<point x="348" y="562" type="curve" smooth="yes"/>
+			<point x="449" y="562"/>
+			<point x="451" y="484"/>
+			<point x="441" y="427" type="curve" smooth="yes"/>
+			<point x="415" y="281"/>
+			<point x="270" y="86"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
+</glyph>
