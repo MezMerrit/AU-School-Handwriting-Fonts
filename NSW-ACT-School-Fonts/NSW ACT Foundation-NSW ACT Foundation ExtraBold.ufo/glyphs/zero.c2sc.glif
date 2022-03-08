@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.c2sc" format="2">
+	<advance width="379"/>
+	<outline>
+		<contour>
+			<point x="152" y="-1" type="curve" smooth="yes"/>
+			<point x="248" y="0"/>
+			<point x="345" y="152"/>
+			<point x="337" y="267" type="curve" smooth="yes"/>
+			<point x="334" y="319"/>
+			<point x="305" y="396"/>
+			<point x="216" y="396" type="curve" smooth="yes"/>
+			<point x="78" y="396"/>
+			<point x="43" y="201"/>
+			<point x="48" y="125" type="curve" smooth="yes"/>
+			<point x="52" y="71"/>
+			<point x="82" y="-1"/>
+		</contour>
+		<contour>
+			<point x="151" y="87" type="curve"/>
+			<point x="143" y="87"/>
+			<point x="139" y="94"/>
+			<point x="138" y="121" type="curve" smooth="yes"/>
+			<point x="133" y="191"/>
+			<point x="163" y="308"/>
+			<point x="224" y="308" type="curve" smooth="yes"/>
+			<point x="238" y="308"/>
+			<point x="244" y="296"/>
+			<point x="246" y="269" type="curve" smooth="yes"/>
+			<point x="253" y="166"/>
+			<point x="172" y="87"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>zero</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>zero</string>
+		</dict>
+	</lib>
+</glyph>
