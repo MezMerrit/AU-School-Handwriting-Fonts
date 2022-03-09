@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="2">
-	<advance width="366"/>
+	<advance width="367"/>
 	<unicode hex="0074"/>
 	<outline>
 		<contour>
@@ -36,12 +36,4 @@
 			<point x="98" y="305" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>n</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>n</string>
-		</dict>
-	</lib>
 </glyph>

@@ -4,39 +4,37 @@
 	<unicode hex="0056"/>
 	<outline>
 		<contour>
-			<point x="170" y="0" type="line"/>
-			<point x="189" y="0"/>
-			<point x="193" y="11"/>
-			<point x="200" y="25" type="curve" smooth="yes"/>
-			<point x="493" y="618" type="line" smooth="yes"/>
-			<point x="503" y="638"/>
-			<point x="491" y="650"/>
-			<point x="476" y="650" type="curve" smooth="yes"/>
-			<point x="457" y="650"/>
-			<point x="450" y="642"/>
-			<point x="441" y="625" type="curve" smooth="yes"/>
-			<point x="151" y="39" type="line"/>
+			<point x="200" y="0" type="line"/>
+			<point x="219" y="0"/>
+			<point x="223" y="11"/>
+			<point x="230" y="25" type="curve" smooth="yes"/>
+			<point x="523" y="618" type="line" smooth="yes"/>
+			<point x="533" y="638"/>
+			<point x="521" y="650"/>
+			<point x="506" y="650" type="curve" smooth="yes"/>
+			<point x="487" y="650"/>
+			<point x="480" y="642"/>
+			<point x="471" y="625" type="curve" smooth="yes"/>
+			<point x="181" y="39" type="line"/>
 		</contour>
 		<contour>
-			<point x="192" y="37" type="line"/>
-			<point x="160" y="626" type="line" smooth="yes"/>
-			<point x="159" y="636"/>
-			<point x="155" y="650"/>
-			<point x="133" y="650" type="curve"/>
-			<point x="115" y="650"/>
-			<point x="109" y="639"/>
-			<point x="110" y="624" type="curve" smooth="yes"/>
-			<point x="143" y="28" type="line" smooth="yes"/>
-			<point x="144" y="15"/>
-			<point x="152" y="0"/>
-			<point x="171" y="0" type="curve"/>
+			<point x="222" y="37" type="line"/>
+			<point x="190" y="626" type="line" smooth="yes"/>
+			<point x="189" y="636"/>
+			<point x="185" y="650"/>
+			<point x="163" y="650" type="curve"/>
+			<point x="145" y="650"/>
+			<point x="139" y="639"/>
+			<point x="140" y="624" type="curve" smooth="yes"/>
+			<point x="173" y="28" type="line" smooth="yes"/>
+			<point x="174" y="15"/>
+			<point x="182" y="0"/>
+			<point x="201" y="0" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>A</string>
 		</dict>
 	</lib>

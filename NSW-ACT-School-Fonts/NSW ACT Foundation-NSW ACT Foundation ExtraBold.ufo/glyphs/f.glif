@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="2">
-	<advance width="320"/>
+	<advance width="350"/>
 	<unicode hex="0066"/>
 	<outline>
 		<contour>
@@ -48,4 +48,10 @@
 			<point x="106" y="265" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=n/2</string>
+		</dict>
+	</lib>
 </glyph>

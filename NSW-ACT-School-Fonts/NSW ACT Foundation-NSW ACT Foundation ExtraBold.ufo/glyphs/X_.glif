@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="2">
-	<advance width="498"/>
+	<advance width="537"/>
 	<unicode hex="0058"/>
 	<outline>
 		<contour>
-			<point x="494" y="578" type="line" smooth="yes"/>
-			<point x="510" y="602"/>
-			<point x="503" y="623"/>
-			<point x="484" y="639" type="curve" smooth="yes"/>
-			<point x="465" y="655"/>
-			<point x="426" y="656"/>
-			<point x="409" y="631" type="curve" smooth="yes"/>
-			<point x="34" y="69" type="line" smooth="yes"/>
-			<point x="20" y="48"/>
-			<point x="24" y="29"/>
-			<point x="43" y="13" type="curve" smooth="yes"/>
-			<point x="63" y="-3"/>
-			<point x="103" y="-8"/>
-			<point x="119" y="16" type="curve" smooth="yes"/>
+			<point x="533" y="578" type="line" smooth="yes"/>
+			<point x="549" y="602"/>
+			<point x="542" y="623"/>
+			<point x="523" y="639" type="curve" smooth="yes"/>
+			<point x="504" y="655"/>
+			<point x="465" y="656"/>
+			<point x="448" y="631" type="curve" smooth="yes"/>
+			<point x="73" y="69" type="line" smooth="yes"/>
+			<point x="59" y="48"/>
+			<point x="63" y="29"/>
+			<point x="82" y="13" type="curve" smooth="yes"/>
+			<point x="102" y="-3"/>
+			<point x="142" y="-8"/>
+			<point x="158" y="16" type="curve" smooth="yes"/>
 		</contour>
 		<contour>
-			<point x="188" y="623" type="line" smooth="yes"/>
-			<point x="175" y="651"/>
-			<point x="140" y="654"/>
-			<point x="118" y="647" type="curve" smooth="yes"/>
-			<point x="92" y="637"/>
-			<point x="83" y="617"/>
-			<point x="97" y="586" type="curve" smooth="yes"/>
-			<point x="346" y="28" type="line" smooth="yes"/>
-			<point x="359" y="-1"/>
-			<point x="399" y="-6"/>
-			<point x="422" y="6" type="curve" smooth="yes"/>
-			<point x="442" y="17"/>
-			<point x="450" y="36"/>
-			<point x="439" y="61" type="curve" smooth="yes"/>
+			<point x="227" y="623" type="line" smooth="yes"/>
+			<point x="214" y="651"/>
+			<point x="179" y="654"/>
+			<point x="157" y="647" type="curve" smooth="yes"/>
+			<point x="131" y="637"/>
+			<point x="120" y="617"/>
+			<point x="134" y="586" type="curve" smooth="yes"/>
+			<point x="383" y="28" type="line" smooth="yes"/>
+			<point x="396" y="-1"/>
+			<point x="438" y="-6"/>
+			<point x="461" y="6" type="curve" smooth="yes"/>
+			<point x="481" y="17"/>
+			<point x="489" y="36"/>
+			<point x="478" y="61" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
 	<lib>
@@ -41,7 +41,7 @@
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>N</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>N</string>
+			<string>=N/2</string>
 		</dict>
 	</lib>
 </glyph>
