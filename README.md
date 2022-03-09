@@ -2,14 +2,14 @@
 
 Each Australian state teaches different handwriting styles in lower primary school (although some states do share the same style), in line with Department of Education Australia standards. The names of the handwriting styles are as follows:
 
-- Queensland (QLD): QBeginners & QCursive
-- New South Wales (NSW): Foundation Print & Foundation Cursive
-- Tasmania (TAS): Beginner Print & Precursive Print
+- Queensland (QLD): QBeginners Print & QBeginners Pre-Cursive
+- New South Wales (NSW): Foundation Print & Foundation Pre-Cursive
+- Tasmania (TAS): Beginner Print & Pre-Cursive Print
 - Australian Capital Territory (ACT): As per NSW
-- Victoria (VIC): Modern Cursive Print
+- Victoria (VIC): Print & Infant Cursive
 - Northern Territory (NT): As per VIC
 - Western Australia (WA): As per VIC
-- South Australia (SA): Precursive Print & Modern Cursive
+- South Australia (SA): Beginner Print & Pre-Cursive Print
 
 There are essentially three stages involved with each state's styles:
 1. The foundational stage involves learning basic letter formation
