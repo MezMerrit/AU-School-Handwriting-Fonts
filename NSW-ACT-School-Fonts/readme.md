@@ -9,4 +9,4 @@ Students in New South Wales and Australian Capital Territory learn Foundation Pr
 
 # Progress Report
 
-This font-set is ready to hand over to DB for the addition of other characters & the kerning process.
+This font-set is nearly ready to hand over to DB for the addition of other characters & the kerning process. Adding transitional glyph alternates now.
