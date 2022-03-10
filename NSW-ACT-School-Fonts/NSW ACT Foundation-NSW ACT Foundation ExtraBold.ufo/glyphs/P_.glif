@@ -40,8 +40,6 @@
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>N</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=O-50</string>
 		</dict>
 	</lib>
 </glyph>

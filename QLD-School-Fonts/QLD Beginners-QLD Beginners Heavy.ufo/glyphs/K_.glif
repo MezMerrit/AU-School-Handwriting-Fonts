@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-	<advance width="653"/>
+	<advance width="603"/>
 	<unicode hex="004B"/>
 	<outline>
 		<contour>
@@ -55,7 +55,7 @@
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>N</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>N</string>
+			<string>=N-50</string>
 		</dict>
 	</lib>
 </glyph>

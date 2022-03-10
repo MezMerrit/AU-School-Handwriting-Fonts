@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="2">
-	<advance width="924"/>
+	<advance width="956"/>
 	<unicode hex="004D"/>
 	<outline>
 		<contour>
@@ -59,4 +59,12 @@
 			<point x="850" y="46" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>A</string>
+		</dict>
+	</lib>
 </glyph>

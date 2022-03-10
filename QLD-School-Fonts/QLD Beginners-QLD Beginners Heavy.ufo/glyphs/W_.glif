@@ -66,6 +66,8 @@
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>V</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
-	<advance width="653"/>
+	<advance width="603"/>
 	<unicode hex="0052"/>
 	<outline>
 		<contour>
@@ -55,7 +55,7 @@
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>N</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>N</string>
+			<string>K</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r.sc" format="2">
-	<advance width="360"/>
+	<advance width="328"/>
 	<outline>
 		<contour>
 			<point x="109" y="187" type="line"/>
