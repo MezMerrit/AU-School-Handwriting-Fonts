@@ -9,4 +9,4 @@ Students in Queensland learn QBeginners from years 1 to 3 and QCursive from year
 
 # Progress Report
 
-This font-set is ready to hand over to DB for the addition of other characters the kerning process.
+This font-set is ready to hand over to DB for the addition of other characters & the kerning process.
