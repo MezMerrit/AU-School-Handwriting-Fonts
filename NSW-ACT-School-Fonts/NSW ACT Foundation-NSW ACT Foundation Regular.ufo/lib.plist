@@ -51,6 +51,11 @@
 		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
+		<string>K.ss01</string>
+		<string>M.ss01</string>
+		<string>Q.ss01</string>
+		<string>R.ss01</string>
+		<string>U.ss01</string>
 		<string>a</string>
 		<string>b</string>
 		<string>c</string>
@@ -77,6 +82,22 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>a.ss01</string>
+		<string>d.ss01</string>
+		<string>f.ss01</string>
+		<string>h.ss01</string>
+		<string>i.ss01</string>
+		<string>k.ss01</string>
+		<string>l.ss01</string>
+		<string>m.ss01</string>
+		<string>n.ss01</string>
+		<string>o.ss01</string>
+		<string>t.ss01</string>
+		<string>u.ss01</string>
+		<string>v.ss01</string>
+		<string>w.ss01</string>
+		<string>x.ss01</string>
+		<string>z.ss01</string>
 		<string>a.sc</string>
 		<string>b.sc</string>
 		<string>c.sc</string>

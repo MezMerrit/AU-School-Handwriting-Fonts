@@ -28,10 +28,14 @@
 	<string>J_.glif</string>
 	<key>K</key>
 	<string>K_.glif</string>
+	<key>K.ss01</key>
+	<string>K_.ss01.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
+	<key>M.ss01</key>
+	<string>M_.ss01.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
 	<key>O</key>
@@ -40,14 +44,20 @@
 	<string>P_.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
+	<key>Q.ss01</key>
+	<string>Q_.ss01.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
+	<key>R.ss01</key>
+	<string>R_.ss01.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
+	<key>U.ss01</key>
+	<string>U_.ss01.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>W</key>
@@ -62,6 +72,8 @@
 	<string>a.glif</string>
 	<key>a.sc</key>
 	<string>a.sc.glif</string>
+	<key>a.ss01</key>
+	<string>a.ss01.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>approxequal</key>
@@ -110,6 +122,8 @@
 	<string>d.glif</string>
 	<key>d.sc</key>
 	<string>d.sc.glif</string>
+	<key>d.ss01</key>
+	<string>d.ss01.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
 	<key>degree.c2sc</key>
@@ -146,6 +160,8 @@
 	<string>f.glif</string>
 	<key>f.sc</key>
 	<string>f.sc.glif</string>
+	<key>f.ss01</key>
+	<string>f.ss01.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five.c2sc</key>
@@ -170,12 +186,16 @@
 	<string>h.glif</string>
 	<key>h.sc</key>
 	<string>h.sc.glif</string>
+	<key>h.ss01</key>
+	<string>h.ss01.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>i.sc</key>
 	<string>i.sc.glif</string>
+	<key>i.ss01</key>
+	<string>i.ss01.glif</string>
 	<key>infinity</key>
 	<string>infinity.glif</string>
 	<key>j</key>
@@ -186,10 +206,14 @@
 	<string>k.glif</string>
 	<key>k.sc</key>
 	<string>k.sc.glif</string>
+	<key>k.ss01</key>
+	<string>k.ss01.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>l.sc</key>
 	<string>l.sc.glif</string>
+	<key>l.ss01</key>
+	<string>l.ss01.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
 	<key>lessequal</key>
@@ -198,12 +222,16 @@
 	<string>m.glif</string>
 	<key>m.sc</key>
 	<string>m.sc.glif</string>
+	<key>m.ss01</key>
+	<string>m.ss01.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>n.sc</key>
 	<string>n.sc.glif</string>
+	<key>n.ss01</key>
+	<string>n.ss01.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>nine.c2sc</key>
@@ -216,6 +244,8 @@
 	<string>o.glif</string>
 	<key>o.sc</key>
 	<string>o.sc.glif</string>
+	<key>o.ss01</key>
+	<string>o.ss01.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
 	<key>one.c2sc</key>
@@ -284,6 +314,8 @@
 	<string>t.glif</string>
 	<key>t.sc</key>
 	<string>t.sc.glif</string>
+	<key>t.ss01</key>
+	<string>t.ss01.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
 	<key>three.c2sc</key>
@@ -298,20 +330,28 @@
 	<string>u.glif</string>
 	<key>u.sc</key>
 	<string>u.sc.glif</string>
+	<key>u.ss01</key>
+	<string>u.ss01.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>v.sc</key>
 	<string>v.sc.glif</string>
+	<key>v.ss01</key>
+	<string>v.ss01.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
 	<key>w.sc</key>
 	<string>w.sc.glif</string>
+	<key>w.ss01</key>
+	<string>w.ss01.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
 	<key>x.sc</key>
 	<string>x.sc.glif</string>
+	<key>x.ss01</key>
+	<string>x.ss01.glif</string>
 	<key>y</key>
 	<string>y.glif</string>
 	<key>y.sc</key>
@@ -320,6 +360,8 @@
 	<string>z.glif</string>
 	<key>z.sc</key>
 	<string>z.sc.glif</string>
+	<key>z.ss01</key>
+	<string>z.ss01.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
 	<key>zero.c2sc</key>
