@@ -1,66 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="m.sc" format="2">
-	<advance width="533"/>
-	<outline>
-		<contour>
-			<point x="213" y="327" type="line"/>
-			<point x="210" y="396" type="line"/>
-			<point x="195" y="396"/>
-			<point x="189" y="388"/>
-			<point x="181" y="373" type="curve" smooth="yes"/>
-			<point x="6" y="39" type="line" smooth="yes"/>
-			<point x="-3" y="21"/>
-			<point x="6" y="0"/>
-			<point x="26" y="0" type="curve" smooth="yes"/>
-			<point x="34" y="0"/>
-			<point x="45" y="5"/>
-			<point x="53" y="21" type="curve" smooth="yes"/>
-		</contour>
-		<contour>
-			<point x="259" y="50" type="line"/>
-			<point x="234" y="374" type="line" smooth="yes"/>
-			<point x="233" y="385"/>
-			<point x="227" y="396"/>
-			<point x="210" y="396" type="curve"/>
-			<point x="187" y="327" type="line"/>
-			<point x="211" y="24" type="line" smooth="yes"/>
-			<point x="212" y="11"/>
-			<point x="218" y="0"/>
-			<point x="235" y="0" type="curve"/>
-		</contour>
-		<contour>
-			<point x="234" y="0" type="line"/>
-			<point x="250" y="0"/>
-			<point x="257" y="8"/>
-			<point x="262" y="17" type="curve" smooth="yes"/>
-			<point x="424" y="327" type="line"/>
-			<point x="421" y="396" type="line"/>
-			<point x="408" y="396"/>
-			<point x="399" y="388"/>
-			<point x="394" y="378" type="curve" smooth="yes"/>
-			<point x="227" y="58" type="line"/>
-		</contour>
-		<contour>
-			<point x="446" y="367" type="line" smooth="yes"/>
-			<point x="445" y="384"/>
-			<point x="435" y="396"/>
-			<point x="421" y="396" type="curve"/>
-			<point x="399" y="327" type="line"/>
-			<point x="424" y="25" type="line" smooth="yes"/>
-			<point x="425" y="12"/>
-			<point x="433" y="0"/>
-			<point x="450" y="0" type="curve" smooth="yes"/>
-			<point x="466" y="0"/>
-			<point x="475" y="13"/>
-			<point x="474" y="28" type="curve" smooth="yes"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>M</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>M</string>
-		</dict>
-	</lib>
+  <advance width="533"/>
+  <outline>
+    <contour>
+      <point x="186" y="327" type="line"/>
+      <point x="183" y="396" type="line"/>
+      <point x="168" y="396"/>
+      <point x="162" y="388"/>
+      <point x="154" y="373" type="curve" smooth="yes"/>
+      <point x="-21" y="39" type="line" smooth="yes"/>
+      <point x="-30" y="21"/>
+      <point x="-21" y="0"/>
+      <point x="-1" y="0" type="curve" smooth="yes"/>
+      <point x="7" y="0"/>
+      <point x="18" y="5"/>
+      <point x="26" y="21" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="232" y="50" type="line"/>
+      <point x="207" y="374" type="line" smooth="yes"/>
+      <point x="206" y="385"/>
+      <point x="200" y="396"/>
+      <point x="183" y="396" type="curve"/>
+      <point x="160" y="327" type="line"/>
+      <point x="184" y="24" type="line" smooth="yes"/>
+      <point x="185" y="11"/>
+      <point x="191" y="0"/>
+      <point x="208" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="207" y="0" type="line"/>
+      <point x="223" y="0"/>
+      <point x="230" y="8"/>
+      <point x="235" y="17" type="curve" smooth="yes"/>
+      <point x="397" y="327" type="line"/>
+      <point x="394" y="396" type="line"/>
+      <point x="381" y="396"/>
+      <point x="372" y="388"/>
+      <point x="367" y="378" type="curve" smooth="yes"/>
+      <point x="200" y="58" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="367" type="line" smooth="yes"/>
+      <point x="418" y="384"/>
+      <point x="408" y="396"/>
+      <point x="394" y="396" type="curve"/>
+      <point x="372" y="327" type="line"/>
+      <point x="397" y="25" type="line" smooth="yes"/>
+      <point x="398" y="12"/>
+      <point x="406" y="0"/>
+      <point x="423" y="0" type="curve" smooth="yes"/>
+      <point x="439" y="0"/>
+      <point x="448" y="13"/>
+      <point x="447" y="28" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>M</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>M</string>
+    </dict>
+  </lib>
 </glyph>
