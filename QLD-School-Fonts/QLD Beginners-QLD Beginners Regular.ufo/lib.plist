@@ -142,6 +142,7 @@
       <string>braceleft</string>
       <string>bar</string>
       <string>braceright</string>
+      <string>asciitilde</string>
       <string>exclamdown</string>
       <string>brokenbar</string>
       <string>degree</string>
@@ -150,7 +151,6 @@
       <string>questiondown</string>
       <string>multiply</string>
       <string>divide</string>
-      <string>tilde</string>
       <string>minus</string>
       <string>a.sc</string>
       <string>b.sc</string>
