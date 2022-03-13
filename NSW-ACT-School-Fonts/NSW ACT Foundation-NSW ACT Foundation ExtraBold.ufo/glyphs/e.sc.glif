@@ -1,63 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="e.sc" format="2">
-	<advance width="415"/>
-	<outline>
-		<contour>
-			<point x="196" y="339" type="line" smooth="yes"/>
-			<point x="200" y="374"/>
-			<point x="175" y="396"/>
-			<point x="145" y="396" type="curve" smooth="yes"/>
-			<point x="114" y="396"/>
-			<point x="99" y="377"/>
-			<point x="97" y="355" type="curve" smooth="yes"/>
-			<point x="65" y="52" type="line" smooth="yes"/>
-			<point x="62" y="25"/>
-			<point x="79" y="0"/>
-			<point x="111" y="0" type="curve" smooth="yes"/>
-			<point x="141" y="0"/>
-			<point x="162" y="19"/>
-			<point x="164" y="39" type="curve" smooth="yes"/>
-		</contour>
-		<contour>
-			<point x="111" y="0" type="line"/>
-			<point x="295" y="0" type="line" smooth="yes"/>
-			<point x="324" y="0"/>
-			<point x="341" y="18"/>
-			<point x="341" y="44" type="curve" smooth="yes"/>
-			<point x="341" y="69"/>
-			<point x="320" y="85"/>
-			<point x="291" y="85" type="curve" smooth="yes"/>
-			<point x="152" y="85" type="line"/>
-		</contour>
-		<contour>
-			<point x="159" y="150" type="line"/>
-			<point x="297" y="150" type="line" smooth="yes"/>
-			<point x="327" y="150"/>
-			<point x="346" y="169"/>
-			<point x="346" y="194" type="curve" smooth="yes"/>
-			<point x="346" y="220"/>
-			<point x="322" y="238"/>
-			<point x="294" y="238" type="curve" smooth="yes"/>
-			<point x="170" y="238" type="line"/>
-		</contour>
-		<contour>
-			<point x="175" y="303" type="line"/>
-			<point x="328" y="303" type="line" smooth="yes"/>
-			<point x="356" y="303"/>
-			<point x="373" y="325"/>
-			<point x="373" y="351" type="curve" smooth="yes"/>
-			<point x="373" y="377"/>
-			<point x="351" y="396"/>
-			<point x="322" y="396" type="curve" smooth="yes"/>
-			<point x="144" y="396" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>E</string>
-		</dict>
-	</lib>
+  <advance width="415"/>
+  <outline>
+    <contour>
+      <point x="179" y="339" type="line" smooth="yes"/>
+      <point x="183" y="374"/>
+      <point x="158" y="396"/>
+      <point x="128" y="396" type="curve" smooth="yes"/>
+      <point x="97" y="396"/>
+      <point x="82" y="377"/>
+      <point x="80" y="355" type="curve" smooth="yes"/>
+      <point x="48" y="52" type="line" smooth="yes"/>
+      <point x="45" y="25"/>
+      <point x="62" y="0"/>
+      <point x="94" y="0" type="curve" smooth="yes"/>
+      <point x="124" y="0"/>
+      <point x="145" y="19"/>
+      <point x="147" y="39" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="278" y="0" type="line" smooth="yes"/>
+      <point x="307" y="0"/>
+      <point x="324" y="18"/>
+      <point x="324" y="44" type="curve" smooth="yes"/>
+      <point x="324" y="69"/>
+      <point x="303" y="85"/>
+      <point x="274" y="85" type="curve" smooth="yes"/>
+      <point x="135" y="85" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="150" type="line"/>
+      <point x="280" y="150" type="line" smooth="yes"/>
+      <point x="310" y="150"/>
+      <point x="329" y="169"/>
+      <point x="329" y="194" type="curve" smooth="yes"/>
+      <point x="329" y="220"/>
+      <point x="305" y="238"/>
+      <point x="277" y="238" type="curve" smooth="yes"/>
+      <point x="153" y="238" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="303" type="line"/>
+      <point x="311" y="303" type="line" smooth="yes"/>
+      <point x="339" y="303"/>
+      <point x="356" y="325"/>
+      <point x="356" y="351" type="curve" smooth="yes"/>
+      <point x="356" y="377"/>
+      <point x="334" y="396"/>
+      <point x="305" y="396" type="curve" smooth="yes"/>
+      <point x="127" y="396" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
 </glyph>

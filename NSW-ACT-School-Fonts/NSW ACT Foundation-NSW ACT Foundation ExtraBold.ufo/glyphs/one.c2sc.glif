@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.c2sc" format="2">
-	<advance width="487"/>
-	<outline>
-		<contour>
-			<point x="299" y="353" type="line" smooth="yes"/>
-			<point x="303" y="387"/>
-			<point x="271" y="396"/>
-			<point x="255" y="396" type="curve" smooth="yes"/>
-			<point x="239" y="396"/>
-			<point x="208" y="389"/>
-			<point x="204" y="355" type="curve" smooth="yes"/>
-			<point x="171" y="43" type="line" smooth="yes"/>
-			<point x="167" y="8"/>
-			<point x="199" y="0"/>
-			<point x="216" y="0" type="curve" smooth="yes"/>
-			<point x="230" y="0"/>
-			<point x="262" y="5"/>
-			<point x="265" y="38" type="curve" smooth="yes"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>one</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>one</string>
-		</dict>
-	</lib>
+  <advance width="487"/>
+  <outline>
+    <contour>
+      <point x="282" y="353" type="line" smooth="yes"/>
+      <point x="286" y="387"/>
+      <point x="254" y="396"/>
+      <point x="238" y="396" type="curve" smooth="yes"/>
+      <point x="222" y="396"/>
+      <point x="191" y="389"/>
+      <point x="187" y="355" type="curve" smooth="yes"/>
+      <point x="154" y="43" type="line" smooth="yes"/>
+      <point x="150" y="8"/>
+      <point x="182" y="0"/>
+      <point x="199" y="0" type="curve" smooth="yes"/>
+      <point x="213" y="0"/>
+      <point x="245" y="5"/>
+      <point x="248" y="38" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>one</string>
+    </dict>
+  </lib>
 </glyph>
