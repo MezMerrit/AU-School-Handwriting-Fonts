@@ -18,5 +18,19 @@
     <string>o.glif</string>
     <key>p</key>
     <string>p.glif</string>
+    <key>q</key>
+    <string>q.glif</string>
+    <key>r</key>
+    <string>r.glif</string>
+    <key>v</key>
+    <string>v.glif</string>
+    <key>w</key>
+    <string>w.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
+    <key>y</key>
+    <string>y.glif</string>
+    <key>z</key>
+    <string>z.glif</string>
   </dict>
 </plist>
