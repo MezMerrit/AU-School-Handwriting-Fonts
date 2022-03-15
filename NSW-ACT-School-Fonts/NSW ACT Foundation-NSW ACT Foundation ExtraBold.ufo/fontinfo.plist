@@ -15,6 +15,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>SzBQ6Yipy1</string>
         <key>x</key>
         <integer>285</integer>
         <key>y</key>
@@ -23,6 +25,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>vRB5pevXds</string>
         <key>x</key>
         <integer>484</integer>
         <key>y</key>
