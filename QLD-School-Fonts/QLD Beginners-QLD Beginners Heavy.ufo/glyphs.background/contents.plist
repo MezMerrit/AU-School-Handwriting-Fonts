@@ -10,5 +10,13 @@
     <string>O_.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
+    <key>b</key>
+    <string>b.glif</string>
+    <key>c</key>
+    <string>c.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
+    <key>p</key>
+    <string>p.glif</string>
   </dict>
 </plist>
