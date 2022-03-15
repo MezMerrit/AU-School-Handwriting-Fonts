@@ -15,6 +15,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>nyxIggiL5y</string>
         <key>x</key>
         <integer>632</integer>
         <key>y</key>
@@ -23,6 +25,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>7pGCQMrtGv</string>
         <key>x</key>
         <integer>416</integer>
         <key>y</key>
@@ -31,6 +35,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>qxt6bVbYD9</string>
         <key>x</key>
         <integer>278</integer>
         <key>y</key>
@@ -39,6 +45,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>f4fzSoc7Kw</string>
         <key>x</key>
         <integer>127</integer>
         <key>y</key>
@@ -86,7 +94,7 @@
       <real>90.0</real>
     </array>
     <key>styleName</key>
-    <string>Regular</string>
+    <string>Bold</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>

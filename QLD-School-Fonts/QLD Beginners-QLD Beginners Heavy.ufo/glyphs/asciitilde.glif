@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="tilde" format="2">
+<glyph name="asciitilde" format="2">
   <advance width="538"/>
-  <unicode hex="02DC"/>
+  <unicode hex="007E"/>
   <outline>
     <contour>
       <point x="283" y="139" type="curve" smooth="yes"/>
