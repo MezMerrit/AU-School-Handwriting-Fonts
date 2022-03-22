@@ -1,6 +1,9 @@
 {
 .appVersion = "3108";
 .formatVersion = 3;
+DisplayStrings = (
+"The quick brown fox jumps over the lazy dog"
+);
 axes = (
 {
 name = Weight;
@@ -3283,7 +3286,7 @@ unicode = 97;
 },
 {
 glyphname = b;
-lastChange = "2022-03-17 13:11:27 +0000";
+lastChange = "2022-03-22 05:53:59 +0000";
 layers = (
 {
 layerId = m01;
@@ -3349,7 +3352,7 @@ nodes = (
 );
 }
 );
-width = 341;
+width = 344;
 },
 {
 layerId = "140DECC1-64C4-40C0-9C07-503DBC3F4160";
@@ -3415,7 +3418,7 @@ nodes = (
 );
 }
 );
-width = 421;
+width = 426;
 }
 );
 metricLeft = n;
@@ -4943,7 +4946,7 @@ unicode = 111;
 },
 {
 glyphname = p;
-lastChange = "2022-03-17 13:18:49 +0000";
+lastChange = "2022-03-22 05:54:23 +0000";
 layers = (
 {
 layerId = m01;
@@ -5011,7 +5014,7 @@ nodes = (
 );
 }
 );
-width = 380;
+width = 383;
 },
 {
 layerId = "140DECC1-64C4-40C0-9C07-503DBC3F4160";
@@ -5079,7 +5082,7 @@ nodes = (
 );
 }
 );
-width = 443;
+width = 448;
 }
 );
 metricLeft = n;
@@ -5229,7 +5232,7 @@ unicode = 113;
 },
 {
 glyphname = r;
-lastChange = "2022-03-17 13:31:40 +0000";
+lastChange = "2022-03-22 05:54:04 +0000";
 layers = (
 {
 layerId = m01;
@@ -5292,7 +5295,7 @@ nodes = (
 );
 }
 );
-width = 295;
+width = 298;
 },
 {
 layerId = "140DECC1-64C4-40C0-9C07-503DBC3F4160";
@@ -5355,7 +5358,7 @@ nodes = (
 );
 }
 );
-width = 318;
+width = 323;
 }
 );
 metricLeft = n;
@@ -5704,7 +5707,7 @@ unicode = 117;
 },
 {
 glyphname = v;
-lastChange = "2022-03-17 13:35:26 +0000";
+lastChange = "2022-03-22 05:54:09 +0000";
 layers = (
 {
 layerId = m01;
@@ -5764,7 +5767,7 @@ nodes = (
 );
 }
 );
-width = 402;
+width = 405;
 },
 {
 layerId = "140DECC1-64C4-40C0-9C07-503DBC3F4160";
@@ -5824,14 +5827,14 @@ nodes = (
 );
 }
 );
-width = 444;
+width = 449;
 }
 );
 unicode = 118;
 },
 {
 glyphname = w;
-lastChange = "2022-03-17 13:35:38 +0000";
+lastChange = "2022-03-22 05:54:15 +0000";
 layers = (
 {
 layerId = m01;
@@ -5948,7 +5951,7 @@ nodes = (
 );
 }
 );
-width = 644;
+width = 647;
 },
 {
 layerId = "140DECC1-64C4-40C0-9C07-503DBC3F4160";
@@ -6065,7 +6068,7 @@ nodes = (
 );
 }
 );
-width = 679;
+width = 684;
 }
 );
 unicode = 119;
