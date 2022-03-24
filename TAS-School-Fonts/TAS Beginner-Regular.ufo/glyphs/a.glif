@@ -4,34 +4,38 @@
 	<unicode hex="0061"/>
 	<outline>
 		<contour>
-			<point x="162" y="350" type="curve" smooth="yes"/>
-			<point x="72" y="350"/>
-			<point x="16" y="271"/>
-			<point x="-13" y="156" type="curve" smooth="yes"/>
-			<point x="-32" y="80"/>
-			<point x="0" y="-4"/>
 			<point x="73" y="-4" type="curve" smooth="yes"/>
 			<point x="159" y="-4"/>
 			<point x="208" y="89"/>
 			<point x="228" y="166" type="curve" smooth="yes"/>
 			<point x="248" y="244"/>
 			<point x="245" y="350"/>
+			<point x="162" y="350" type="curve" smooth="yes"/>
+			<point x="72" y="350"/>
+			<point x="16" y="271"/>
+			<point x="-13" y="156" type="curve" smooth="yes"/>
+			<point x="-32" y="80"/>
+			<point x="0" y="-4"/>
 		</contour>
 		<contour>
-			<point x="151" y="304" type="curve" smooth="yes"/>
-			<point x="205" y="304"/>
-			<point x="189" y="217"/>
-			<point x="179" y="178" type="curve" smooth="yes"/>
-			<point x="166" y="125"/>
-			<point x="124" y="41"/>
 			<point x="85" y="41" type="curve" smooth="yes"/>
 			<point x="29" y="41"/>
 			<point x="26" y="109"/>
 			<point x="41" y="169" type="curve" smooth="yes"/>
 			<point x="55" y="226"/>
 			<point x="104" y="304"/>
+			<point x="151" y="304" type="curve" smooth="yes"/>
+			<point x="205" y="304"/>
+			<point x="189" y="217"/>
+			<point x="179" y="178" type="curve" smooth="yes"/>
+			<point x="166" y="125"/>
+			<point x="124" y="41"/>
 		</contour>
 		<contour>
+			<point x="173" y="0" type="curve" smooth="yes"/>
+			<point x="198" y="0"/>
+			<point x="201" y="14"/>
+			<point x="206" y="32" type="curve" smooth="yes"/>
 			<point x="279" y="322" type="line" smooth="yes"/>
 			<point x="283" y="338"/>
 			<point x="279" y="349"/>
@@ -42,14 +46,12 @@
 			<point x="155" y="35" type="line" smooth="yes"/>
 			<point x="151" y="18"/>
 			<point x="151" y="0"/>
-			<point x="173" y="0" type="curve" smooth="yes"/>
-			<point x="198" y="0"/>
-			<point x="201" y="14"/>
-			<point x="206" y="32" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-03-24 04:43:21 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>o</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

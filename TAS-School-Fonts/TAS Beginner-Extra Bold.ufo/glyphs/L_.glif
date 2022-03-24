@@ -4,6 +4,10 @@
 	<unicode hex="004C"/>
 	<outline>
 		<contour>
+			<point x="41" y="0" type="curve" smooth="yes"/>
+			<point x="75" y="0"/>
+			<point x="90" y="20"/>
+			<point x="95" y="41" type="curve" smooth="yes"/>
 			<point x="232" y="591" type="line" smooth="yes"/>
 			<point x="242" y="630"/>
 			<point x="218" y="648"/>
@@ -13,14 +17,9 @@
 			<point x="133" y="608" type="curve" smooth="yes"/>
 			<point x="-4" y="58" type="line" smooth="yes"/>
 			<point x="-11" y="29"/>
-			<point x="8" y="2"/>
-			<point x="41" y="0" type="curve" smooth="yes"/>
-			<point x="75" y="-2"/>
-			<point x="90" y="20"/>
-			<point x="95" y="41" type="curve" smooth="yes"/>
+			<point x="8" y="0"/>
 		</contour>
 		<contour>
-			<point x="40" y="0" type="line"/>
 			<point x="421" y="0" type="line" smooth="yes"/>
 			<point x="452" y="0"/>
 			<point x="473" y="23"/>
@@ -29,10 +28,13 @@
 			<point x="452" y="94"/>
 			<point x="421" y="94" type="curve" smooth="yes"/>
 			<point x="95" y="94" type="line"/>
+			<point x="40" y="0" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-03-24 05:12:25 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>N</string>
 		</dict>
