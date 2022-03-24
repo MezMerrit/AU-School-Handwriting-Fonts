@@ -29,8 +29,14 @@
 	<string>VIC WA NT School Handwriting Font (Print)</string>
 	<key>openTypeNameDesigner</key>
 	<string>Tina &amp; Corey Anderson</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeNameSampleText</key>
 	<string>ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<real>-4.0</real>
@@ -57,6 +63,8 @@
 	<array>
 		<real>100.0</real>
 	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>

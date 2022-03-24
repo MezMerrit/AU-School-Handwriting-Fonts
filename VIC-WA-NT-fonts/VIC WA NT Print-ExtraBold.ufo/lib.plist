@@ -21,8 +21,6 @@
 	<string>ExtraBold</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<true/>
-	<key>com.schriftgestaltung.weightValue</key>
-	<integer>800</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
