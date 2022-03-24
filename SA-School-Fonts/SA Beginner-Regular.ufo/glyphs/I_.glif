@@ -10,9 +10,6 @@
 			<point x="139" y="607" type="line"/>
 		</contour>
 		<contour>
-			<point x="95" y="627" type="curve" smooth="yes"/>
-			<point x="95" y="615"/>
-			<point x="103" y="604"/>
 			<point x="123" y="604" type="curve" smooth="yes"/>
 			<point x="212" y="604" type="line" smooth="yes"/>
 			<point x="232" y="604"/>
@@ -24,11 +21,11 @@
 			<point x="120" y="650" type="line" smooth="yes"/>
 			<point x="100" y="650"/>
 			<point x="95" y="639"/>
+			<point x="95" y="627" type="curve" smooth="yes"/>
+			<point x="95" y="615"/>
+			<point x="103" y="604"/>
 		</contour>
 		<contour>
-			<point x="32" y="23" type="curve" smooth="yes"/>
-			<point x="32" y="11"/>
-			<point x="40" y="0"/>
 			<point x="60" y="0" type="curve" smooth="yes"/>
 			<point x="149" y="0" type="line" smooth="yes"/>
 			<point x="169" y="0"/>
@@ -40,10 +37,15 @@
 			<point x="57" y="46" type="line" smooth="yes"/>
 			<point x="37" y="46"/>
 			<point x="32" y="35"/>
+			<point x="32" y="23" type="curve" smooth="yes"/>
+			<point x="32" y="11"/>
+			<point x="40" y="0"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-03-24 05:53:25 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>N</string>
 		</dict>
