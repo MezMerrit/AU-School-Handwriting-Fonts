@@ -18,6 +18,49 @@ value = m01;
 );
 date = "2022-03-16 02:33:55 +0000";
 familyName = "VIC WA NT Print";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature ss01;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "sub a by a.ss01;
+sub d by d.ss01;
+sub f by f.ss01;
+sub h by h.ss01;
+sub i by i.ss01;
+sub k by k.ss01;
+sub l by l.ss01;
+sub m by m.ss01;
+sub n by n.ss01;
+sub o by o.ss01;
+sub p by p.ss01;
+sub q by q.ss01;
+sub r by r.ss01;
+sub t by t.ss01;
+sub u by u.ss01;
+sub z by z.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
+}
+);
 fontMaster = (
 {
 axesValues = (
