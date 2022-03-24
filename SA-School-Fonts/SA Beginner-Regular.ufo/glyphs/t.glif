@@ -21,9 +21,6 @@
 			<point x="83" y="0"/>
 		</contour>
 		<contour>
-			<point x="-3" y="328" type="curve" smooth="yes"/>
-			<point x="-3" y="316"/>
-			<point x="5" y="305"/>
 			<point x="25" y="305" type="curve" smooth="yes"/>
 			<point x="238" y="305" type="line" smooth="yes"/>
 			<point x="258" y="305"/>
@@ -35,6 +32,15 @@
 			<point x="22" y="350" type="line" smooth="yes"/>
 			<point x="2" y="350"/>
 			<point x="-3" y="340"/>
+			<point x="-3" y="328" type="curve" smooth="yes"/>
+			<point x="-3" y="316"/>
+			<point x="5" y="305"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-03-24 05:31:37 +0000</string>
+		</dict>
+	</lib>
 </glyph>
