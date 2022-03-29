@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="2">
+	<advance width="225"/>
+	<unicode hex="0060"/>
+	<outline>
+		<contour>
+			<point x="247" y="669" type="line" smooth="yes"/>
+			<point x="238" y="690"/>
+			<point x="214" y="700"/>
+			<point x="194" y="700" type="curve" smooth="yes"/>
+			<point x="161" y="698"/>
+			<point x="131" y="669"/>
+			<point x="156" y="630" type="curve" smooth="yes"/>
+			<point x="213" y="542" type="line" smooth="yes"/>
+			<point x="231" y="515"/>
+			<point x="256" y="508"/>
+			<point x="275" y="519" type="curve" smooth="yes"/>
+			<point x="294" y="530"/>
+			<point x="297" y="547"/>
+			<point x="286" y="573" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>N</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>N</string>
+		</dict>
+	</lib>
+</glyph>

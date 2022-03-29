@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="2">
+	<advance width="341"/>
+	<unicode hex="0076"/>
+	<outline>
+		<contour>
+			<point x="84" y="34" type="line" smooth="yes"/>
+			<point x="91" y="0"/>
+			<point x="122" y="-11"/>
+			<point x="154" y="-2" type="curve"/>
+			<point x="176" y="74" type="line"/>
+			<point x="126" y="319" type="line" smooth="yes"/>
+			<point x="122" y="340"/>
+			<point x="102" y="355"/>
+			<point x="80" y="355" type="curve" smooth="yes"/>
+			<point x="47" y="355"/>
+			<point x="24" y="326"/>
+			<point x="33" y="286" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="181" y="27" type="curve" smooth="yes"/>
+			<point x="299" y="281" type="line" smooth="yes"/>
+			<point x="316" y="319"/>
+			<point x="294" y="351"/>
+			<point x="260" y="355" type="curve" smooth="yes"/>
+			<point x="240" y="357"/>
+			<point x="221" y="346"/>
+			<point x="212" y="328" type="curve" smooth="yes"/>
+			<point x="101" y="86" type="line"/>
+			<point x="106" y="-1" type="line"/>
+			<point x="137" y="-10"/>
+			<point x="166" y="-5"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-03-24 05:32:40 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="2">
+	<advance width="784"/>
+	<unicode hex="004D"/>
+	<outline>
+		<contour>
+			<point x="295" y="18" type="line" smooth="yes"/>
+			<point x="297" y="8"/>
+			<point x="310" y="0"/>
+			<point x="324" y="0" type="curve"/>
+			<point x="336" y="67" type="line"/>
+			<point x="229" y="599" type="line" smooth="yes"/>
+			<point x="222" y="636"/>
+			<point x="200" y="650"/>
+			<point x="184" y="650" type="curve"/>
+			<point x="180" y="589" type="line"/>
+		</contour>
+		<contour>
+			<point x="25" y="0" type="curve" smooth="yes"/>
+			<point x="43" y="0"/>
+			<point x="51" y="12"/>
+			<point x="54" y="24" type="curve" smooth="yes"/>
+			<point x="194" y="589" type="line"/>
+			<point x="185" y="650" type="line"/>
+			<point x="169" y="650"/>
+			<point x="154" y="636"/>
+			<point x="146" y="603" type="curve" smooth="yes"/>
+			<point x="4" y="30" type="line" smooth="yes"/>
+			<point x="1" y="16"/>
+			<point x="8" y="0"/>
+		</contour>
+		<contour>
+			<point x="625" y="0" type="curve" smooth="yes"/>
+			<point x="647" y="0"/>
+			<point x="652" y="11"/>
+			<point x="655" y="21" type="curve" smooth="yes"/>
+			<point x="803" y="616" type="line" smooth="yes"/>
+			<point x="807" y="634"/>
+			<point x="796" y="650"/>
+			<point x="779" y="650" type="curve"/>
+			<point x="737" y="559" type="line"/>
+			<point x="606" y="30" type="line" smooth="yes"/>
+			<point x="603" y="19"/>
+			<point x="606" y="0"/>
+		</contour>
+		<contour>
+			<point x="348" y="18" type="curve" smooth="yes"/>
+			<point x="755" y="559" type="line"/>
+			<point x="780" y="650" type="line"/>
+			<point x="765" y="650"/>
+			<point x="749" y="634"/>
+			<point x="737" y="618" type="curve" smooth="yes"/>
+			<point x="316" y="58" type="line"/>
+			<point x="323" y="0" type="line"/>
+			<point x="337" y="0"/>
+			<point x="340" y="8"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-03-24 05:13:27 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>N</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>N</string>
+		</dict>
+	</lib>
+</glyph>
