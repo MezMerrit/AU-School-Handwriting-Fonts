@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u" format="2">
-  <advance width="335"/>
+  <advance width="340"/>
   <unicode hex="0075"/>
   <outline>
     <contour>
       <point x="222" y="0" type="curve" smooth="yes"/>
-      <point x="242.0" y="0.0"/>
+      <point x="242" y="0"/>
       <point x="251" y="9"/>
       <point x="253" y="27" type="curve" smooth="yes"/>
       <point x="284" y="321" type="line" smooth="yes"/>
       <point x="286" y="335"/>
       <point x="283" y="350"/>
       <point x="262" y="350" type="curve" smooth="yes"/>
-      <point x="241.0" y="350.0"/>
+      <point x="241" y="350"/>
       <point x="236" y="334"/>
       <point x="235" y="323" type="curve" smooth="yes"/>
       <point x="203" y="27" type="line" smooth="yes"/>
@@ -35,7 +35,7 @@
       <point x="90" y="335"/>
       <point x="88" y="350"/>
       <point x="66" y="350" type="curve" smooth="yes"/>
-      <point x="44.0" y="350.0"/>
+      <point x="44" y="350"/>
       <point x="41" y="334"/>
       <point x="40" y="323" type="curve" smooth="yes"/>
       <point x="16" y="116" type="line" smooth="yes"/>
