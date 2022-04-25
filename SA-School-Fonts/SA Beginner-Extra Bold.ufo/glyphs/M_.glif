@@ -1,69 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M" format="2">
-	<advance width="834"/>
-	<unicode hex="004D"/>
-	<outline>
-		<contour>
-			<point x="33" y="0" type="curve" smooth="yes"/>
-			<point x="51" y="0"/>
-			<point x="79" y="9"/>
-			<point x="91" y="33" type="curve" smooth="yes"/>
-			<point x="345" y="555" type="line"/>
-			<point x="313" y="650" type="line"/>
-			<point x="285" y="650"/>
-			<point x="275" y="638"/>
-			<point x="265" y="617" type="curve" smooth="yes"/>
-			<point x="-6" y="64" type="line" smooth="yes"/>
-			<point x="-25" y="23"/>
-			<point x="6" y="0"/>
-		</contour>
-		<contour>
-			<point x="332" y="40" type="line" smooth="yes"/>
-			<point x="335" y="18"/>
-			<point x="351" y="0"/>
-			<point x="382" y="0" type="curve"/>
-			<point x="428" y="91" type="line"/>
-			<point x="367" y="606" type="line" smooth="yes"/>
-			<point x="364" y="635"/>
-			<point x="353" y="650"/>
-			<point x="312" y="650" type="curve"/>
-			<point x="270" y="559" type="line"/>
-		</contour>
-		<contour>
-			<point x="437" y="31" type="curve" smooth="yes"/>
-			<point x="702" y="566" type="line"/>
-			<point x="676" y="650" type="line"/>
-			<point x="645" y="650"/>
-			<point x="627" y="638"/>
-			<point x="616" y="616" type="curve" smooth="yes"/>
-			<point x="352" y="86" type="line"/>
-			<point x="381" y="0" type="line"/>
-			<point x="421" y="0"/>
-			<point x="431" y="19"/>
-		</contour>
-		<contour>
-			<point x="733" y="0" type="curve" smooth="yes"/>
-			<point x="762" y="0"/>
-			<point x="782" y="20"/>
-			<point x="779" y="46" type="curve" smooth="yes"/>
-			<point x="718" y="606" type="line" smooth="yes"/>
-			<point x="715" y="635"/>
-			<point x="710" y="650"/>
-			<point x="674" y="650" type="curve"/>
-			<point x="621" y="562" type="line"/>
-			<point x="679" y="40" type="line" smooth="yes"/>
-			<point x="681" y="19"/>
-			<point x="702" y="0"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2022-03-24 05:56:36 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>A</string>
-		</dict>
-	</lib>
+  <advance width="824"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="32" y="0" type="curve" smooth="yes"/>
+      <point x="50" y="0"/>
+      <point x="79" y="9"/>
+      <point x="90" y="33" type="curve" smooth="yes"/>
+      <point x="292" y="459" type="line"/>
+      <point x="285" y="462" type="line"/>
+      <point x="331" y="40" type="line" smooth="yes"/>
+      <point x="333" y="18"/>
+      <point x="350" y="0"/>
+      <point x="380" y="0" type="curve"/>
+      <point x="420" y="0"/>
+      <point x="430" y="19"/>
+      <point x="436" y="31" type="curve" smooth="yes"/>
+      <point x="642" y="459" type="line"/>
+      <point x="636" y="462" type="line"/>
+      <point x="678" y="40" type="line" smooth="yes"/>
+      <point x="680" y="19"/>
+      <point x="701" y="0"/>
+      <point x="732" y="0" type="curve" smooth="yes"/>
+      <point x="761" y="0"/>
+      <point x="781" y="20"/>
+      <point x="778" y="46" type="curve" smooth="yes"/>
+      <point x="717" y="606" type="line" smooth="yes"/>
+      <point x="714" y="635"/>
+      <point x="709" y="650"/>
+      <point x="675" y="650" type="curve"/>
+      <point x="644" y="650"/>
+      <point x="626" y="638"/>
+      <point x="615" y="616" type="curve" smooth="yes"/>
+      <point x="405" y="183" type="line"/>
+      <point x="412" y="180" type="line"/>
+      <point x="366" y="606" type="line" smooth="yes"/>
+      <point x="363" y="635"/>
+      <point x="352" y="650"/>
+      <point x="312" y="650" type="curve"/>
+      <point x="284" y="650"/>
+      <point x="274" y="638"/>
+      <point x="264" y="617" type="curve" smooth="yes"/>
+      <point x="-7" y="64" type="line" smooth="yes"/>
+      <point x="-26" y="23"/>
+      <point x="5" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-03-24 05:56:36 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
 </glyph>
