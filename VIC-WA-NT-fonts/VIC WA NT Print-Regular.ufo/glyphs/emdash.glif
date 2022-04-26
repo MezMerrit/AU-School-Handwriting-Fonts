@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="emdash" format="2">
-	<advance width="562"/>
-	<unicode hex="2014"/>
-	<outline>
-		<contour>
-			<point x="97" y="175" type="curve" smooth="yes"/>
-			<point x="420" y="175" type="line" smooth="yes"/>
-			<point x="440" y="175"/>
-			<point x="451" y="187"/>
-			<point x="451" y="199" type="curve" smooth="yes"/>
-			<point x="451" y="209"/>
-			<point x="441" y="220"/>
-			<point x="420" y="220" type="curve" smooth="yes"/>
-			<point x="97" y="220" type="line" smooth="yes"/>
-			<point x="77" y="220"/>
-			<point x="67" y="209"/>
-			<point x="67" y="199" type="curve" smooth="yes"/>
-			<point x="67" y="187"/>
-			<point x="78" y="175"/>
-		</contour>
-	</outline>
+  <advance width="538"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="80" y="175" type="curve" smooth="yes"/>
+      <point x="428" y="175" type="line" smooth="yes"/>
+      <point x="447.0" y="175.0"/>
+      <point x="459" y="185"/>
+      <point x="459" y="200" type="curve" smooth="yes"/>
+      <point x="459" y="215"/>
+      <point x="448.0" y="225.0"/>
+      <point x="430" y="225" type="curve" smooth="yes"/>
+      <point x="82" y="225" type="line" smooth="yes"/>
+      <point x="63" y="225"/>
+      <point x="51" y="215"/>
+      <point x="51" y="200" type="curve" smooth="yes"/>
+      <point x="51" y="185"/>
+      <point x="62" y="175"/>
+    </contour>
+  </outline>
 </glyph>
