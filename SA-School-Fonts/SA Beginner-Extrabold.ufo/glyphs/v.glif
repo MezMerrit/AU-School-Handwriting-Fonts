@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v" format="2">
+  <advance width="322"/>
+  <unicode hex="0076"/>
+  <outline>
+    <contour>
+      <point x="74" y="38" type="line" smooth="yes"/>
+      <point x="81" y="11"/>
+      <point x="101" y="-1"/>
+      <point x="122" y="-1" type="curve" smooth="yes"/>
+      <point x="138" y="-1"/>
+      <point x="159" y="7"/>
+      <point x="171" y="31" type="curve" smooth="yes"/>
+      <point x="297" y="276" type="line" smooth="yes"/>
+      <point x="316" y="313"/>
+      <point x="292" y="350"/>
+      <point x="258" y="350" type="curve" smooth="yes"/>
+      <point x="238" y="350"/>
+      <point x="218" y="341"/>
+      <point x="210" y="323" type="curve" smooth="yes"/>
+      <point x="123" y="126" type="line"/>
+      <point x="142" y="120" type="line"/>
+      <point x="107" y="313" type="line" smooth="yes"/>
+      <point x="103" y="334"/>
+      <point x="83" y="349"/>
+      <point x="61" y="349" type="curve" smooth="yes"/>
+      <point x="28" y="349"/>
+      <point x="4" y="320"/>
+      <point x="14" y="280" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-03-24 05:32:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

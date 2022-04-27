@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="g" format="2">
-  <advance width="336"/>
+  <advance width="326"/>
   <unicode hex="0067"/>
   <outline>
     <contour>
       <point x="117" y="0" type="curve" smooth="yes"/>
-      <point x="197" y="0"/>
-      <point x="244" y="74"/>
+      <point x="184" y="0"/>
+      <point x="243" y="69"/>
       <point x="271" y="182" type="curve" smooth="yes"/>
-      <point x="297" y="286"/>
-      <point x="284" y="354"/>
+      <point x="298" y="288"/>
+      <point x="277" y="354"/>
       <point x="217" y="354" type="curve" smooth="yes"/>
       <point x="137" y="354"/>
       <point x="70" y="280"/>
