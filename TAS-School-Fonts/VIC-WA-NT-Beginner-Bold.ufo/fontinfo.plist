@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>700</integer>
+    <key>capHeight</key>
+    <integer>650</integer>
+    <key>descender</key>
+    <integer>-300</integer>
+    <key>familyName</key>
+    <string>VIC WA NT Beginner</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>T5hjdLWVMd</string>
+        <key>x</key>
+        <integer>456</integer>
+        <key>y</key>
+        <integer>650</integer>
+      </dict>
+    </array>
+    <key>italicAngle</key>
+    <real>-10.0</real>
+    <key>openTypeHeadCreated</key>
+    <string>2022/03/16 02:33:55</string>
+    <key>openTypeNameDescription</key>
+    <string>VIC WA NT School Handwriting Font (Print)</string>
+    <key>openTypeNameDesigner</key>
+    <string>Tina &amp; Corey Anderson</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Regular</string>
+    <key>openTypeNameSampleText</key>
+    <string>ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>800</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <real>-4.0</real>
+      <real>0.0</real>
+      <real>350.0</real>
+      <real>354.0</real>
+      <real>650.0</real>
+      <real>654.0</real>
+      <real>700.0</real>
+      <real>704.0</real>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptFontName</key>
+    <string>VICWANTPrint-Regular</string>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <real>-304.0</real>
+      <real>-300.0</real>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <real>90.0</real>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <real>100.0</real>
+    </array>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Bold</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>350</integer>
+  </dict>
+</plist>

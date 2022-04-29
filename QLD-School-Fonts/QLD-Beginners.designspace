@@ -6,12 +6,12 @@
     </axis>
   </axes>
   <sources>
-    <source filename="QLD Beginners-QLD Beginners Regular.ufo" familyname="QLD Beginners" stylename="Regular">
+    <source filename="QLD-Beginners-Regular.ufo" familyname="QLD Beginners" stylename="Regular">
       <location>
         <dimension name="wght" xvalue="400"/>
       </location>
     </source>
-    <source filename="QLD Beginners-QLD Beginners Heavy.ufo" familyname="QLD Beginners" stylename="Bold">
+    <source filename="QLD-Beginners-Bold.ufo" familyname="QLD Beginners" stylename="Bold">
       <location>
         <dimension name="wght" xvalue="700"/>
       </location>

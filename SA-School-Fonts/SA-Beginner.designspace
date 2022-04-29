@@ -4,12 +4,12 @@
     <axis tag="wght" name="wght" minimum="400" maximum="700" default="400"/>
   </axes>
   <sources>
-    <source filename="SA Beginner-Regular.ufo" familyname="SA Beginner" stylename="Regular">
+    <source filename="SA-Beginner-Regular.ufo" familyname="SA Beginner" stylename="Regular">
       <location>
         <dimension name="wght" xvalue="400"/>
       </location>
     </source>
-    <source filename="SA Beginner-Extrabold.ufo" familyname="SA Beginner" stylename="Bold">
+    <source filename="SA-Beginner-Bold.ufo" familyname="SA Beginner" stylename="Bold">
       <location>
         <dimension name="wght" xvalue="700"/>
       </location>

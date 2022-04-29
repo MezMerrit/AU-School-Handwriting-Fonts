@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <group color="1.0 0.0 0.0 0.25" name="H_right" side="side1" type="kerning">
+    <glyphs>
+      H
+      J
+      M
+      N
+      U
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.76 0.25" name="O_right" side="side1" type="kerning">
+    <glyphs>
+      D
+      O
+      Q
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="V_right" side="side1" type="kerning">
+    <glyphs>
+      V
+      W
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="n_right" side="side1" type="kerning">
+    <glyphs>
+      a
+      h
+      m
+      n
+      u
+      y
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="o_right" side="side1" type="kerning">
+    <glyphs>
+      b
+      o
+      p
+    </glyphs>
+  </group>
+  <group color="0.0 0.5 1.0 0.25" name="v_right" side="side1" type="kerning">
+    <glyphs>
+      v
+      w
+    </glyphs>
+  </group>
+  <group color="0.0 0.9 0.92 0.25" name="H_left" side="side2" type="kerning">
+    <glyphs>
+      B
+      D
+      E
+      F
+      H
+      K
+      L
+      M
+      N
+      P
+      R
+      U
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 0.98 0.25" name="O_left" side="side2" type="kerning">
+    <glyphs>
+      C
+      G
+      O
+      Q
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="V_left" side="side2" type="kerning">
+    <glyphs>
+      V
+      W
+    </glyphs>
+  </group>
+  <group color="0.48 0.0 1.0 0.25" name="h_left" side="side2" type="kerning">
+    <glyphs>
+      b
+      h
+      k
+      l
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="n_left" side="side2" type="kerning">
+    <glyphs>
+      m
+      n
+      p
+      r
+      u
+      y
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.89 0.25" name="o_left" side="side2" type="kerning">
+    <glyphs>
+      a
+      c
+      d
+      e
+      g
+      o
+      q
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.99 0.25" name="v_left" side="side2" type="kerning">
+    <glyphs>
+      v
+      w
+    </glyphs>
+  </group>
+</xml>

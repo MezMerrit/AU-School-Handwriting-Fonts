@@ -4,12 +4,12 @@
     <axis tag="wght" name="wght" minimum="400" maximum="700" default="400"/>
   </axes>
   <sources>
-    <source filename="NSW ACT Foundation-NSW ACT Foundation Regular.ufo" familyname="NSW ACT Foundation" stylename="Regular">
+    <source filename="NSW-ACT-Foundation-Regular.ufo" familyname="NSW ACT Foundation" stylename="Regular">
       <location>
         <dimension name="wght" xvalue="400"/>
       </location>
     </source>
-    <source filename="NSW ACT Foundation-NSW ACT Foundation ExtraBold.ufo" familyname="NSW ACT Foundation" stylename="Bold">
+    <source filename="NSW-ACT-Foundation-Bold.ufo" familyname="NSW ACT Foundation" stylename="Bold">
       <location>
         <dimension name="wght" xvalue="700"/>
       </location>
