@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft" format="2">
+  <advance width="344"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="14" y="-199" type="curve" smooth="yes"/>
+      <point x="153" y="-199" type="line" smooth="yes"/>
+      <point x="189" y="-199"/>
+      <point x="205" y="-172"/>
+      <point x="205" y="-149" type="curve" smooth="yes"/>
+      <point x="205" y="-127"/>
+      <point x="193" y="-101"/>
+      <point x="153" y="-101" type="curve" smooth="yes"/>
+      <point x="45" y="-101" type="line"/>
+      <point x="73" y="-136" type="line"/>
+      <point x="250" y="573" type="line"/>
+      <point x="223" y="552" type="line"/>
+      <point x="339" y="552" type="line" smooth="yes"/>
+      <point x="374" y="552"/>
+      <point x="390" y="576"/>
+      <point x="392" y="598" type="curve" smooth="yes"/>
+      <point x="394" y="620"/>
+      <point x="382" y="650"/>
+      <point x="339" y="650" type="curve" smooth="yes"/>
+      <point x="210" y="650" type="line" smooth="yes"/>
+      <point x="174" y="650"/>
+      <point x="159" y="634"/>
+      <point x="152" y="605" type="curve" smooth="yes"/>
+      <point x="-34" y="-138" type="line" smooth="yes"/>
+      <point x="-41" y="-169"/>
+      <point x="-27" y="-199"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>N</string>
+    </dict>
+  </lib>
+</glyph>

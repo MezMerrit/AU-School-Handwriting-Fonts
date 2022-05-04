@@ -4,12 +4,12 @@
     <axis tag="wght" name="wght" minimum="400" maximum="700" default="400"/>
   </axes>
   <sources>
-    <source filename="VIC-WA-NT-Beginner-Regular.ufo" familyname="VIC WA NT Beginner" stylename="Regular">
+    <source filename="TAS-Beginner-Regular.ufo" familyname="TAS Beginner" stylename="Regular">
       <location>
         <dimension name="wght" xvalue="400"/>
       </location>
     </source>
-    <source filename="VIC-WA-NT-Beginner-Bold.ufo" familyname="VIC WA NT Beginner" stylename="Bold">
+    <source filename="TAS-Beginner-Bold.ufo" familyname="TAS Beginner" stylename="Bold">
       <location>
         <dimension name="wght" xvalue="700"/>
       </location>
