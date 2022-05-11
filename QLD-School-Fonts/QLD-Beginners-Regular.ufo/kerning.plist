@@ -4,8 +4,16 @@
   <dict>
     <key>A</key>
     <dict>
+      <key>T</key>
+      <integer>-20</integer>
+      <key>Y</key>
+      <integer>-60</integer>
       <key>backslash</key>
       <integer>-40</integer>
+      <key>public.kern2.O_left</key>
+      <integer>-30</integer>
+      <key>public.kern2.V_left</key>
+      <integer>-50</integer>
     </dict>
     <key>B</key>
     <dict>
@@ -40,6 +48,8 @@
     </dict>
     <key>F</key>
     <dict>
+      <key>A</key>
+      <integer>-30</integer>
       <key>S</key>
       <integer>40</integer>
       <key>T</key>
@@ -125,6 +135,8 @@
     </dict>
     <key>P</key>
     <dict>
+      <key>A</key>
+      <integer>-50</integer>
       <key>S</key>
       <integer>20</integer>
       <key>backslash</key>
@@ -170,6 +182,8 @@
     </dict>
     <key>T</key>
     <dict>
+      <key>A</key>
+      <integer>-30</integer>
       <key>T</key>
       <integer>60</integer>
       <key>X</key>
@@ -200,6 +214,8 @@
     </dict>
     <key>Y</key>
     <dict>
+      <key>A</key>
+      <integer>-50</integer>
       <key>T</key>
       <integer>40</integer>
       <key>backslash</key>
@@ -353,11 +369,15 @@
     </dict>
     <key>public.kern1.O_right</key>
     <dict>
+      <key>A</key>
+      <integer>-30</integer>
       <key>backslash</key>
       <integer>50</integer>
     </dict>
     <key>public.kern1.V_right</key>
     <dict>
+      <key>A</key>
+      <integer>-60</integer>
       <key>T</key>
       <integer>30</integer>
       <key>X</key>

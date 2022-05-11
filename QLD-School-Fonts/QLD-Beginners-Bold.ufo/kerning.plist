@@ -7,7 +7,7 @@
       <key>J</key>
       <integer>50</integer>
       <key>T</key>
-      <integer>-20</integer>
+      <integer>-30</integer>
       <key>Y</key>
       <integer>-20</integer>
       <key>backslash</key>
@@ -44,6 +44,8 @@
     </dict>
     <key>F</key>
     <dict>
+      <key>A</key>
+      <integer>-40</integer>
       <key>T</key>
       <integer>40</integer>
       <key>backslash</key>
@@ -122,7 +124,7 @@
     <key>P</key>
     <dict>
       <key>A</key>
-      <integer>-40</integer>
+      <integer>-50</integer>
       <key>backslash</key>
       <integer>10</integer>
       <key>public.kern2.n_left</key>
@@ -172,7 +174,7 @@
     <key>T</key>
     <dict>
       <key>A</key>
-      <integer>-20</integer>
+      <integer>-40</integer>
       <key>S</key>
       <integer>30</integer>
       <key>T</key>
