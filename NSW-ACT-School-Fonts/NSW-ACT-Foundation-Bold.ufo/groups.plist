@@ -21,6 +21,18 @@
       <string>V</string>
       <string>W</string>
     </array>
+    <key>public.kern1.colon_right</key>
+    <array>
+      <string>colon</string>
+      <string>semicolon</string>
+    </array>
+    <key>public.kern1.hyphen_right</key>
+    <array>
+      <string>hyphen</string>
+      <string>underscore</string>
+      <string>endash</string>
+      <string>emdash</string>
+    </array>
     <key>public.kern1.n_right</key>
     <array>
       <string>a</string>
@@ -68,12 +80,24 @@
       <string>V</string>
       <string>W</string>
     </array>
+    <key>public.kern2.colon_left</key>
+    <array>
+      <string>colon</string>
+      <string>semicolon</string>
+    </array>
     <key>public.kern2.h_left</key>
     <array>
       <string>b</string>
       <string>h</string>
       <string>k</string>
       <string>l</string>
+    </array>
+    <key>public.kern2.hyphen_left</key>
+    <array>
+      <string>hyphen</string>
+      <string>underscore</string>
+      <string>emdash</string>
+      <string>endash</string>
     </array>
     <key>public.kern2.n_left</key>
     <array>

@@ -21,6 +21,18 @@
       <string>V</string>
       <string>W</string>
     </array>
+    <key>public.kern1.colon_right</key>
+    <array>
+      <string>colon</string>
+      <string>semicolon</string>
+    </array>
+    <key>public.kern1.hyphen_right</key>
+    <array>
+      <string>emdash</string>
+      <string>endash</string>
+      <string>hyphen</string>
+      <string>underscore</string>
+    </array>
     <key>public.kern1.n_right</key>
     <array>
       <string>n</string>
@@ -35,6 +47,16 @@
       <string>o</string>
       <string>p</string>
       <string>b</string>
+    </array>
+    <key>public.kern1.period_right</key>
+    <array>
+      <string>comma</string>
+      <string>period</string>
+    </array>
+    <key>public.kern1.quote_right</key>
+    <array>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
     </array>
     <key>public.kern1.v_right</key>
     <array>
@@ -68,12 +90,24 @@
       <string>V</string>
       <string>W</string>
     </array>
+    <key>public.kern2.colon_left</key>
+    <array>
+      <string>colon</string>
+      <string>semicolon</string>
+    </array>
     <key>public.kern2.h_left</key>
     <array>
       <string>b</string>
       <string>h</string>
       <string>k</string>
       <string>l</string>
+    </array>
+    <key>public.kern2.hyphen_left</key>
+    <array>
+      <string>emdash</string>
+      <string>endash</string>
+      <string>hyphen</string>
+      <string>underscore</string>
     </array>
     <key>public.kern2.n_left</key>
     <array>
@@ -93,6 +127,16 @@
       <string>d</string>
       <string>e</string>
       <string>g</string>
+    </array>
+    <key>public.kern2.period_left</key>
+    <array>
+      <string>comma</string>
+      <string>period</string>
+    </array>
+    <key>public.kern2.quote_left</key>
+    <array>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
     </array>
     <key>public.kern2.v_left</key>
     <array>

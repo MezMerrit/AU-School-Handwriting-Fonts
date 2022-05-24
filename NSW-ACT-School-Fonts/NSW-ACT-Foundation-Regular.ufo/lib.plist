@@ -75,6 +75,20 @@
         <real>1.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern1.colon_right</key>
+      <array>
+        <real>0.5</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.hyphen_right</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern1.n_right</key>
       <array>
         <real>1.0</real>
@@ -87,6 +101,20 @@
         <real>0.0</real>
         <real>1.0</real>
         <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.period_right</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.quote_right</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
         <real>0.25</real>
       </array>
       <key>public.kern1.v_right</key>
@@ -117,9 +145,23 @@
         <real>0.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern2.colon_left</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern2.h_left</key>
       <array>
         <real>0.48</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.hyphen_left</key>
+      <array>
+        <real>0.5</real>
         <real>0.0</real>
         <real>1.0</real>
         <real>0.25</real>
@@ -136,6 +178,20 @@
         <real>1.0</real>
         <real>0.0</real>
         <real>0.89</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.period_left</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.quote_left</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
         <real>0.25</real>
       </array>
       <key>public.kern2.v_left</key>

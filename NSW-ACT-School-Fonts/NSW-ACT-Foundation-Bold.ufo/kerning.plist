@@ -6,8 +6,14 @@
     <dict>
       <key>T</key>
       <integer>-30</integer>
+      <key>asterisk</key>
+      <integer>-60</integer>
       <key>public.kern2.V_left</key>
       <integer>-30</integer>
+      <key>quotedbl</key>
+      <integer>-50</integer>
+      <key>quotesingle</key>
+      <integer>-40</integer>
       <key>slash</key>
       <integer>20</integer>
     </dict>
@@ -15,6 +21,8 @@
     <dict>
       <key>backslash</key>
       <integer>50</integer>
+      <key>period</key>
+      <integer>20</integer>
     </dict>
     <key>C</key>
     <dict>
@@ -22,6 +30,11 @@
       <integer>100</integer>
       <key>slash</key>
       <integer>40</integer>
+    </dict>
+    <key>D</key>
+    <dict>
+      <key>Y</key>
+      <integer>-20</integer>
     </dict>
     <key>E</key>
     <dict>
@@ -35,11 +48,13 @@
     <key>F</key>
     <dict>
       <key>A</key>
-      <integer>-30</integer>
+      <integer>-60</integer>
       <key>T</key>
       <integer>60</integer>
       <key>backslash</key>
       <integer>110</integer>
+      <key>period</key>
+      <integer>-80</integer>
       <key>public.kern2.n_left</key>
       <integer>-20</integer>
       <key>public.kern2.o_left</key>
@@ -72,6 +87,16 @@
     <dict>
       <key>A</key>
       <integer>10</integer>
+      <key>T</key>
+      <integer>-20</integer>
+      <key>Y</key>
+      <integer>-10</integer>
+      <key>public.kern2.V_left</key>
+      <integer>-30</integer>
+      <key>quotedbl</key>
+      <integer>-60</integer>
+      <key>quotesingle</key>
+      <integer>-60</integer>
       <key>slash</key>
       <integer>40</integer>
     </dict>
@@ -79,8 +104,12 @@
     <dict>
       <key>A</key>
       <integer>-30</integer>
+      <key>J</key>
+      <integer>-20</integer>
       <key>backslash</key>
       <integer>90</integer>
+      <key>period</key>
+      <integer>-70</integer>
       <key>public.kern2.n_left</key>
       <integer>-20</integer>
       <key>public.kern2.o_left</key>
@@ -104,36 +133,76 @@
     <dict>
       <key>A</key>
       <integer>-40</integer>
+      <key>J</key>
+      <integer>-30</integer>
       <key>backslash</key>
       <integer>110</integer>
+      <key>i</key>
+      <integer>-20</integer>
+      <key>j</key>
+      <integer>-20</integer>
+      <key>period</key>
+      <integer>-60</integer>
+      <key>public.kern2.hyphen_left</key>
+      <integer>-60</integer>
       <key>public.kern2.n_left</key>
-      <integer>-20</integer>
+      <integer>-50</integer>
       <key>public.kern2.o_left</key>
-      <integer>-20</integer>
+      <integer>-50</integer>
       <key>public.kern2.v_left</key>
-      <integer>-20</integer>
+      <integer>-60</integer>
+      <key>s</key>
+      <integer>-50</integer>
       <key>slash</key>
       <integer>-20</integer>
+      <key>x</key>
+      <integer>-30</integer>
       <key>z</key>
-      <integer>-10</integer>
+      <integer>-30</integer>
     </dict>
     <key>X</key>
     <dict>
       <key>backslash</key>
       <integer>140</integer>
+      <key>f</key>
+      <integer>30</integer>
+      <key>i</key>
+      <integer>30</integer>
+      <key>j</key>
+      <integer>30</integer>
+      <key>public.kern2.h_left</key>
+      <integer>30</integer>
+      <key>public.kern2.n_left</key>
+      <integer>30</integer>
+      <key>public.kern2.o_left</key>
+      <integer>30</integer>
+      <key>public.kern2.v_left</key>
+      <integer>30</integer>
+      <key>s</key>
+      <integer>30</integer>
       <key>slash</key>
       <integer>70</integer>
+      <key>t</key>
+      <integer>30</integer>
+      <key>x</key>
+      <integer>50</integer>
+      <key>z</key>
+      <integer>45</integer>
     </dict>
     <key>Y</key>
     <dict>
       <key>A</key>
       <integer>-50</integer>
+      <key>J</key>
+      <integer>-70</integer>
       <key>backslash</key>
       <integer>120</integer>
+      <key>public.kern2.hyphen_left</key>
+      <integer>-80</integer>
       <key>public.kern2.n_left</key>
       <integer>-40</integer>
       <key>public.kern2.o_left</key>
-      <integer>-40</integer>
+      <integer>-80</integer>
       <key>public.kern2.v_left</key>
       <integer>-40</integer>
       <key>s</key>
@@ -149,6 +218,11 @@
       <integer>120</integer>
       <key>slash</key>
       <integer>40</integer>
+    </dict>
+    <key>asterisk</key>
+    <dict>
+      <key>A</key>
+      <integer>-60</integer>
     </dict>
     <key>backslash</key>
     <dict>
@@ -199,11 +273,19 @@
     </dict>
     <key>c</key>
     <dict>
+      <key>period</key>
+      <integer>-40</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-30</integer>
       <key>slash</key>
       <integer>20</integer>
     </dict>
     <key>d</key>
     <dict>
+      <key>period</key>
+      <integer>-30</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-30</integer>
       <key>slash</key>
       <integer>20</integer>
     </dict>
@@ -213,6 +295,10 @@
       <integer>-20</integer>
       <key>f</key>
       <integer>40</integer>
+      <key>period</key>
+      <integer>-30</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-30</integer>
       <key>slash</key>
       <integer>20</integer>
       <key>t</key>
@@ -224,6 +310,10 @@
       <integer>80</integer>
       <key>f</key>
       <integer>40</integer>
+      <key>period</key>
+      <integer>-40</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-20</integer>
       <key>public.kern2.h_left</key>
       <integer>20</integer>
       <key>s</key>
@@ -237,25 +327,46 @@
       <key>z</key>
       <integer>30</integer>
     </dict>
+    <key>four</key>
+    <dict>
+      <key>seven</key>
+      <integer>-50</integer>
+    </dict>
     <key>g</key>
     <dict>
       <key>backslash</key>
+      <integer>-30</integer>
+      <key>period</key>
+      <integer>-30</integer>
+      <key>public.kern2.colon_left</key>
       <integer>-30</integer>
       <key>slash</key>
       <integer>20</integer>
     </dict>
     <key>i</key>
     <dict>
+      <key>period</key>
+      <integer>-40</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-53</integer>
       <key>slash</key>
       <integer>20</integer>
     </dict>
     <key>j</key>
     <dict>
+      <key>period</key>
+      <integer>-40</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-40</integer>
       <key>slash</key>
       <integer>20</integer>
     </dict>
     <key>k</key>
     <dict>
+      <key>period</key>
+      <integer>-30</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-40</integer>
       <key>slash</key>
       <integer>20</integer>
     </dict>
@@ -263,8 +374,25 @@
     <dict>
       <key>backslash</key>
       <integer>60</integer>
+      <key>period</key>
+      <integer>-40</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-50</integer>
       <key>slash</key>
       <integer>20</integer>
+    </dict>
+    <key>period</key>
+    <dict>
+      <key>J</key>
+      <integer>40</integer>
+      <key>T</key>
+      <integer>-60</integer>
+      <key>public.kern2.V_left</key>
+      <integer>-80</integer>
+      <key>x</key>
+      <integer>20</integer>
+      <key>z</key>
+      <integer>10</integer>
     </dict>
     <key>public.kern1.H_right</key>
     <dict>
@@ -273,25 +401,65 @@
     </dict>
     <key>public.kern1.O_right</key>
     <dict>
+      <key>A</key>
+      <integer>-20</integer>
+      <key>J</key>
+      <integer>-20</integer>
+      <key>X</key>
+      <integer>-30</integer>
+      <key>Y</key>
+      <integer>0</integer>
+      <key>Z</key>
+      <integer>-23</integer>
       <key>backslash</key>
       <integer>50</integer>
+      <key>period</key>
+      <integer>-20</integer>
+      <key>public.kern2.o_left</key>
+      <integer>-20</integer>
     </dict>
     <key>public.kern1.V_right</key>
     <dict>
       <key>A</key>
       <integer>-30</integer>
+      <key>J</key>
+      <integer>-40</integer>
       <key>T</key>
       <integer>10</integer>
       <key>backslash</key>
       <integer>120</integer>
+      <key>period</key>
+      <integer>-80</integer>
+      <key>public.kern2.hyphen_left</key>
+      <integer>-50</integer>
       <key>public.kern2.n_left</key>
       <integer>-20</integer>
       <key>public.kern2.o_left</key>
-      <integer>-20</integer>
+      <integer>-40</integer>
       <key>public.kern2.v_left</key>
       <integer>-20</integer>
       <key>s</key>
-      <integer>-10</integer>
+      <integer>-30</integer>
+    </dict>
+    <key>public.kern1.colon_right</key>
+    <dict>
+      <key>f</key>
+      <integer>50</integer>
+      <key>t</key>
+      <integer>50</integer>
+      <key>x</key>
+      <integer>20</integer>
+      <key>z</key>
+      <integer>20</integer>
+    </dict>
+    <key>public.kern1.hyphen_right</key>
+    <dict>
+      <key>T</key>
+      <integer>-60</integer>
+      <key>Y</key>
+      <integer>-50</integer>
+      <key>public.kern2.V_left</key>
+      <integer>-50</integer>
     </dict>
     <key>public.kern1.n_right</key>
     <dict>
@@ -299,13 +467,23 @@
       <integer>-30</integer>
       <key>f</key>
       <integer>10</integer>
+      <key>period</key>
+      <integer>-30</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-40</integer>
       <key>slash</key>
       <integer>20</integer>
+      <key>x</key>
+      <integer>10</integer>
     </dict>
     <key>public.kern1.o_right</key>
     <dict>
       <key>backslash</key>
       <integer>-30</integer>
+      <key>period</key>
+      <integer>-50</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-40</integer>
       <key>slash</key>
       <integer>20</integer>
     </dict>
@@ -313,6 +491,10 @@
     <dict>
       <key>f</key>
       <integer>20</integer>
+      <key>period</key>
+      <integer>-70</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-30</integer>
       <key>slash</key>
       <integer>20</integer>
       <key>t</key>
@@ -322,13 +504,39 @@
     <dict>
       <key>backslash</key>
       <integer>-30</integer>
+      <key>e</key>
+      <integer>-10</integer>
+      <key>j</key>
+      <integer>220</integer>
+      <key>period</key>
+      <integer>-40</integer>
+      <key>public.kern2.o_left</key>
+      <integer>0</integer>
       <key>slash</key>
       <integer>20</integer>
+    </dict>
+    <key>quotedbl</key>
+    <dict>
+      <key>A</key>
+      <integer>-60</integer>
+      <key>J</key>
+      <integer>-100</integer>
+    </dict>
+    <key>quotesingle</key>
+    <dict>
+      <key>A</key>
+      <integer>-70</integer>
+      <key>J</key>
+      <integer>-100</integer>
     </dict>
     <key>r</key>
     <dict>
       <key>f</key>
       <integer>30</integer>
+      <key>period</key>
+      <integer>-40</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-10</integer>
       <key>public.kern2.v_left</key>
       <integer>10</integer>
       <key>s</key>
@@ -346,6 +554,10 @@
       <integer>-10</integer>
       <key>f</key>
       <integer>10</integer>
+      <key>period</key>
+      <integer>-30</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-40</integer>
       <key>slash</key>
       <integer>30</integer>
     </dict>
@@ -390,6 +602,10 @@
       <integer>70</integer>
       <key>f</key>
       <integer>35</integer>
+      <key>period</key>
+      <integer>-50</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-10</integer>
       <key>public.kern2.n_left</key>
       <integer>10</integer>
       <key>slash</key>
@@ -407,6 +623,12 @@
       <integer>-30</integer>
       <key>f</key>
       <integer>-10</integer>
+      <key>period</key>
+      <integer>-30</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-30</integer>
+      <key>public.kern2.o_left</key>
+      <integer>5</integer>
       <key>slash</key>
       <integer>20</integer>
       <key>t</key>
@@ -418,6 +640,10 @@
       <integer>-20</integer>
       <key>f</key>
       <integer>30</integer>
+      <key>period</key>
+      <integer>-10</integer>
+      <key>public.kern2.colon_left</key>
+      <integer>-10</integer>
       <key>slash</key>
       <integer>20</integer>
       <key>t</key>
