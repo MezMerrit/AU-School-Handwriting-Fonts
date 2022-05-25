@@ -22,6 +22,20 @@
       W
     </glyphs>
   </group>
+  <group color="0.5 0.0 1.0 0.25" name="colon_right" side="side1" type="kerning">
+    <glyphs>
+      colon
+      semicolon
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="hyphen_right" side="side1" type="kerning">
+    <glyphs>
+      emdash
+      endash
+      hyphen
+      underscore
+    </glyphs>
+  </group>
   <group color="1.0 1.0 0.0 0.25" name="n_right" side="side1" type="kerning">
     <glyphs>
       a
@@ -37,6 +51,18 @@
       b
       o
       p
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 1.0 0.25" name="period_right" side="side1" type="kerning">
+    <glyphs>
+      comma
+      period
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="quote_right" side="side1" type="kerning">
+    <glyphs>
+      quotedbl
+      quotesingle
     </glyphs>
   </group>
   <group color="0.0 0.5 1.0 0.25" name="v_right" side="side1" type="kerning">
@@ -75,12 +101,26 @@
       W
     </glyphs>
   </group>
+  <group color="1.0 0.0 1.0 0.25" name="colon_left" side="side2" type="kerning">
+    <glyphs>
+      colon
+      semicolon
+    </glyphs>
+  </group>
   <group color="0.48 0.0 1.0 0.25" name="h_left" side="side2" type="kerning">
     <glyphs>
       b
       h
       k
       l
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="hyphen_left" side="side2" type="kerning">
+    <glyphs>
+      emdash
+      endash
+      hyphen
+      underscore
     </glyphs>
   </group>
   <group color="1.0 0.0 0.0 0.25" name="n_left" side="side2" type="kerning">
@@ -102,6 +142,18 @@
       g
       o
       q
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="period_left" side="side2" type="kerning">
+    <glyphs>
+      comma
+      period
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="quote_left" side="side2" type="kerning">
+    <glyphs>
+      quotedbl
+      quotesingle
     </glyphs>
   </group>
   <group color="1.0 0.0 0.99 0.25" name="v_left" side="side2" type="kerning">
