@@ -212,7 +212,7 @@ value = 950;
 },
 {
 name = winDescent;
-value = 300;
+value = 305;
 }
 );
 id = m01;
@@ -452,7 +452,7 @@ value = 950;
 },
 {
 name = winDescent;
-value = 300;
+value = 305;
 }
 );
 id = m002;
@@ -25133,11 +25133,11 @@ name = Regular;
 },
 {
 axesValues = (
-490
+500
 );
 instanceInterpolations = {
-m002 = 0.3;
-m01 = 0.7;
+m002 = 0.33333;
+m01 = 0.66667;
 };
 name = Medium;
 weightClass = 500;
@@ -25415,7 +25415,7 @@ slash = 20;
 };
 q = {
 backslash = -30;
-j = 220;
+j = 30;
 slash = 20;
 };
 r = {
@@ -25726,7 +25726,7 @@ q = {
 "@MMK_R_o_left" = 0;
 backslash = -30;
 e = -10;
-j = 220;
+j = 30;
 period = -40;
 slash = 20;
 };
