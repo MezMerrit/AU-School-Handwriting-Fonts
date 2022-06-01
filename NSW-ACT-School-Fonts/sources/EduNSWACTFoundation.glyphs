@@ -218,7 +218,6 @@ value = 310;
 id = m01;
 metricValues = (
 {
-over = 4;
 pos = 650;
 },
 {
@@ -458,8 +457,7 @@ value = 310;
 id = m002;
 metricValues = (
 {
-over = 4;
-pos = 700;
+pos = 650;
 },
 {
 over = 4;
