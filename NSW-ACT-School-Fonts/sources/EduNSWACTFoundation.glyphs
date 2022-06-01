@@ -23,7 +23,7 @@ value = (
 }
 );
 date = "2022-02-27 10:52:09 +0000";
-familyName = "NSW ACT Foundation";
+familyName = "Edu NSW ACT Foundation";
 featurePrefixes = (
 {
 automatic = 1;
@@ -22380,36 +22380,6 @@ width = 332;
 },
 {
 export = 0;
-glyphname = paragraph;
-layers = (
-{
-layerId = m01;
-width = 435;
-},
-{
-layerId = m002;
-width = 600;
-}
-);
-unicode = 182;
-},
-{
-export = 0;
-glyphname = section;
-layers = (
-{
-layerId = m01;
-width = 600;
-},
-{
-layerId = m002;
-width = 600;
-}
-);
-unicode = 167;
-},
-{
-export = 0;
 glyphname = copyright;
 layers = (
 {
@@ -25882,7 +25852,7 @@ key = descriptions;
 values = (
 {
 language = dflt;
-value = "NSW ACT School Handwriting (Foundation)";
+value = "Australian NSW ACT School Handwriting (Foundation)";
 }
 );
 },

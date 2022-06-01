@@ -1,6 +1,6 @@
 sources:
-    - NSWACTFoundation.glyphs
+    - EduNSWACTFoundation.glyphs
 axisOrder:
     - wght
-buildStatic: False
-familyName: NSW ACT Foundation
+buildOTF: False
+familyName: Edu NSW ACT Foundation
