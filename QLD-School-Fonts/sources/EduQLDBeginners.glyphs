@@ -23,7 +23,7 @@ value = (
 }
 );
 date = "2022-02-21 08:08:28 +0000";
-familyName = "QLD Beginners";
+familyName = "Edu QLD Beginners";
 featurePrefixes = (
 {
 automatic = 1;
@@ -20961,36 +20961,6 @@ unicode = 166;
 },
 {
 export = 0;
-glyphname = paragraph;
-layers = (
-{
-layerId = m01;
-width = 600;
-},
-{
-layerId = m002;
-width = 600;
-}
-);
-unicode = 182;
-},
-{
-export = 0;
-glyphname = section;
-layers = (
-{
-layerId = m01;
-width = 600;
-},
-{
-layerId = m002;
-width = 600;
-}
-);
-unicode = 167;
-},
-{
-export = 0;
 glyphname = copyright;
 layers = (
 {
@@ -24221,7 +24191,7 @@ key = descriptions;
 values = (
 {
 language = dflt;
-value = "QLD School Handwriting (QBeginners)";
+value = "Australian QLD School Handwriting (QBeginners)";
 }
 );
 },

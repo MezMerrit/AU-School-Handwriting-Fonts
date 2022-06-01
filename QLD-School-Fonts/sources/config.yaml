@@ -1,6 +1,6 @@
 sources:
-    - QLDBeginners.glyphs
+    - EduQLDBeginners.glyphs
 axisOrder:
     - wght
-buildStatic: False
-familyName: QLD Beginners
+buildOTF: False
+familyName: Edu QLD Beginners
