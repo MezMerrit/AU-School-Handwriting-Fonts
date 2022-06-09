@@ -5,5 +5,5 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
-Tina Anderson
-Corey Anderson
+Tina Anderson <mez@ozcoolies.com>
+Corey Anderson <mez@ozcoolies.com>
