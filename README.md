@@ -4,13 +4,19 @@ The AU School Handwriting Fonts are a variable typeface family designed specific
 
 The initial weight of these English language font-sets is intended to imitate the pencil thickness of actual handwriting, however they may be adjusted as desired in your usual word processor, or they can be used in software that supports variable fonts (such as Adobe) to make full use of alternate glyphs for transitional handwriting stages between grades 1 and 3.
 
+- - - -
+
 ![[link|width=400px]](https://user-images.githubusercontent.com/34974280/174439881-58459016-de6c-4157-b1f7-daa7bdd160c4.png "Regular")
+
+- - - -
 
 ![[link|width=400px]](https://user-images.githubusercontent.com/34974280/174439884-ef3fcedd-e528-4305-bf4f-0617badb77ce.png "Bold")
 
-The AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers.
+- - - -
 
-![[link|width=400px]](https://user-images.githubusercontent.com/34974280/159198981-e06b4972-3e52-4065-a402-58fd5b1ba301.png "NSW Ruled Exercise Book")
+    left      |     right
+------------- | -------------
+The AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. | ![[link|width=400px]](https://user-images.githubusercontent.com/34974280/159198981-e06b4972-3e52-4065-a402-58fd5b1ba301.png "NSW Ruled Exercise Book")
 
 ## Description ##
 
