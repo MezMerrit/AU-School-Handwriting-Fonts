@@ -46,7 +46,7 @@ To view the fonts without installing them:
 
 Click the link above matching the Australian State that you live in. 
 
-1. Download the .zip file and unpack it. 
+1. Download the font-viewer.zip file and unpack it. 
 2. Double-click the .html file.
 3. Adjust the sliders at the top of the page.
 
