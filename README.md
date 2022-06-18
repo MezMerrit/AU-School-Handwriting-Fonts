@@ -33,6 +33,7 @@ To view the fonts without installing them:
 
 <details>
    <summary>Click here</summary>
+
 Click the link above matching the Australian State that you live in. 
 
 1. Download the .zip file and unpack it. 
@@ -46,17 +47,21 @@ To install the fonts choose an option:
 
 <details>
   <summary>Windows</summary>
-	<p>1. Open the Windows Control Panel.</br>
-	2. Select Appearance and Personalization.</br>
-	3. At the bottom, select Fonts.</br>
-	4. To add a font, simply drag the .ttf file into the font window.</br>
-	5. Click Yes when prompted.</p>
+
+1. Open the *Windows Control Panel*
+2. Select *Appearance and Personalization*
+3. At the bottom, select *Fonts*
+4. To add a font, simply drag the .ttf file into the font window.
+5. Click Click Yes when prompted.
+
 </details>
 <details>
   <summary>Mac</summary>
-	<p>1. Double-click the .ttf file</br>
-	2. Click Install Font in the font preview window</br>
-	3. After validation, it will open in the Font Book app</p>
+
+1. Double-click the .ttf file
+2. Click Install Font in the font preview window
+3. After validation, it will open in the Font Book app
+
 </details>
 
 - - - -
@@ -67,7 +72,9 @@ This project contains the binary font files for all Australian states. Each fami
 
 ## Build from gftool ##
 
-You can build the font locally, after cloning this repository.
+Fonts are built automatically by GitHub Actions - look under the "Actions" tab for the latest build.
+
+You can also build the font locally, after cloning this repository.
 
 ```
 1. At the root of your local clone (cd path/to/local/clone), create a virtual environment: python3 -m venv env
