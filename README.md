@@ -1,23 +1,78 @@
 # AU School Handwriting Fonts
 
-Each Australian state teaches different handwriting styles in lower primary school (although some states do share the same style), in line with Department of Education Australia standards. The names of the handwriting styles are as follows:
+The AU School Handwriting Fonts are a variable typeface family designed specifically to meet Australian education standards. While carefully crafted to work well in a classroom environment, the  sizes and resolutions available make these fonts handy outside the classroom as well.
 
-- Queensland (QLD): QBeginners Print & QBeginners Pre-Cursive
-- New South Wales (NSW): Foundation Print & Foundation Pre-Cursive
-- Tasmania (TAS): Beginner Print & Pre-Cursive Print
-- Australian Capital Territory (ACT): As per NSW
-- Victoria (VIC): Print & Infant Cursive
-- Northern Territory (NT): As per VIC
-- Western Australia (WA): As per VIC
-- South Australia (SA): Beginner Print & Pre-Cursive Print
+The initial weight of the AU font-sets is intended to imitate the pencil thickness of actual handwriting, however they may be adjusted as desired in your usual word processor, or they can be used in software such as Adobe to make full use of alternate glyphs for transitional handwriting stages between grades 1 and 3..
 
-There are essentially three stages involved with each state's styles:
-1. The foundational stage involves learning basic letter formation
-2. The transitional stage adds joining ligatures to some letters
-3. The cursive stage joins almost all letters (with some exceptions)
+AU School Handwriting Fonts are purposefully designed with minimal under and overshoot at Cap Height, X-Height, Baseline and Descender making them perfect for use on pre-ruled pages.
 
-The initial weight (300) of foundational font-sets included in this repo is intended to imitate the pencil thickness of actual handwriting, however they're also variable fonts so they may be adjusted up to Extra Bold weight (800), depending on usage requirements.
+![NSW Ruled Exercise Book](https://user-images.githubusercontent.com/34974280/159198981-e06b4972-3e52-4065-a402-58fd5b1ba301.png "NSW Ruled Exercise Book")
 
-The foundational fonts contain alternate glyphs (or ligatures) for transitional stages to their full cursive counterparts, depending on usage requirements.
+## Description ##
 
-The full cursive counterparts are a future project. The initial weight (200) of full cursive font-sets will imitate ball point pen thickness and are envisaged to be variable fonts also (up to 800) for consistency. This part of development will involve testing software provided by a third party, hence the variability and overall design scope may differ, although consistency between the font-sets will remain a primary focus.
+In lower primary school some Australian States teach different handwriting styles, while some States share the same style. The handwriting styles expected by each State's Education Department are as follows:
+
+State | Style Name | Link
+| :--- | :--- | :---
+Queensland (QLD)  | QBeginners Print & QBeginners Pre-Cursive | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/QLD-School-Fonts "Read more")
+New South Wales (NSW) | Foundation Print & Foundation Pre-Cursive | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
+Tasmania (TAS) | Beginner Print & Pre-Cursive Print | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/TAS-School-Fonts "Read more")
+Australian Capital Territory (ACT) | Foundation Print & Foundation Pre-Cursive |  [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
+Victoria (VIC) | Print & Infant Cursive | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+Northern Territory (NT) | Print & Infant Cursive | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+Western Australia (WA) | Print & Infant Cursive | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+South Australia (SA) | Beginner Print & Pre-Cursive Print | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/SA-School-Fonts "Read more")
+
+- - - -
+
+# About This Project #
+
+This project contains the binary font files for all Australian states. Each family's "Font" subdirectory contains the .ttf font file sets. 
+
+## Build from gftool ##
+
+You can build the font locally, after cloning this repository.
+
+```
+1. At the root of your local clone (cd path/to/local/clone), create a virtual environment: python3 -m venv env
+
+2. Activate the virtual env: source env/bin/activate
+
+3. Install gftools (or the requirements) in the virtual env: pip install gftools
+
+4. go to the "sources" directory and from the terminal, run : gftools builder config.yaml
+```
+
+## Bugs & Improvements ##
+
+These fonts are the result of a collaborative project, where you are invited to discuss issues and even contribute to their ongoing development.
+
+If you find a problem with a font file or have a request for the future development of its cursive counterpart, [Named Link](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/issues "please create a new issue in this project's issue tracker").
+
+- - - -
+
+# Acknowledgements & Credits #
+
+- Santiago Orozco
+- David Berlow
+- Rosalie Wagner
+- Corey Anderson
+- Tina Anderson
+
+- - - -
+
+# Changelog #
+
+**June 2022**
+
+Date          | Description
+------------- | -------------
+Jun 18, 2022  | First release
+
+- - - -
+
+# License #
+
+These Fonts are licensed under the SIL Open Font License, Version 1.1. This license is copied [Nhere](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/blob/main/OFL.txt "SIL Open Font License"), and is also available with a FAQ at: https://scripts.sil.org/OFL.
+
+The fonts files themselves also contain licensing and authorship metadata.
