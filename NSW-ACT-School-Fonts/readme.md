@@ -12,12 +12,12 @@ Students in New South Wales and Australian Capital Territory learn Foundation Pr
 
 ## Font Styles ##
 
-Weight        | Style
-------------- | -------------
-400           | Regular
-500           | Medium
-600           | Semi Bold
-700           | Bold
+Weight        | Style        | Slope
+------------- | -------------| -------------
+400           | Regular      | 6º
+500           | Medium       | 6º
+600           | Semi Bold    | 6º
+700           | Bold         | 6º
 
 ## Using Open Type Features ##
 
