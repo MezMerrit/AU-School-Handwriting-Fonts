@@ -2,10 +2,10 @@
 
 This font includes:
 
-- Tasmania Beginners Alphabet - a simple sloped print for early primary school
-- Tasmania Precursive Alphabet - transitional joining letter alternates
+- Beginner Alphabet - a simple sloped print for early primary school
+- Precursive Alphabet - transitional joining letter alternates
 
-Students in Tasmania learn the Beginners Alphabet from years 1 and 2, moving on to Pre-Cursive from year 3.
+Students in Tasmania learn the Beginner Alphabet from years 1 and 2, moving on to Pre-Cursive from year 3.
 
 - - - -
 
