@@ -7,8 +7,11 @@ This font includes both:
 
 Students in Queensland learn QBeginners from years 1 to 3 and QCursive from year 4. 
 
+- - - -
+
 ![QLD](https://user-images.githubusercontent.com/34974280/174457710-2a86b874-bf16-4bc0-8944-f55f6ab26ce7.png)
 
+- - - -
 
 ## Font Styles ##
 
