@@ -8,7 +8,7 @@ The initial weight of the AU font-sets is intended to imitate the pencil thickne
 
 ![Bold](https://user-images.githubusercontent.com/34974280/174439884-ef3fcedd-e528-4305-bf4f-0617badb77ce.png "Bold")
 
-AU School Handwriting Fonts are purposefully designed with minimal under and overshoot at Cap Height, X-Height, Baseline and Descender making them perfect for use on pre-ruled pages.
+AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender making them perfect for use by teachers.
 
 ![NSW Ruled Exercise Book](https://user-images.githubusercontent.com/34974280/159198981-e06b4972-3e52-4065-a402-58fd5b1ba301.png "NSW Ruled Exercise Book")
 
@@ -31,7 +31,7 @@ South Australia (SA) | Beginner Print & Pre-Cursive Print | [Read more](https://
 
 # About This Project #
 
-This project contains the binary font files for all Australian states. Each family's "Font" subdirectory contains the .ttf font file sets. 
+This project contains the binary font files for all Australian states. Each family's subdirectory contains the .ttf font file sets and a .zip file to locally test the font in a variable font viewer.
 
 ## Build from gftool ##
 
@@ -76,6 +76,8 @@ Jun 18, 2022  | First release
 - - - -
 
 # License #
+
+Copyright (c) 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)
 
 These Fonts are licensed under the SIL Open Font License, Version 1.1. This license is copied [Nhere](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/blob/main/OFL.txt "SIL Open Font License"), and is also available with a FAQ at: https://scripts.sil.org/OFL.
 
