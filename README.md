@@ -29,13 +29,18 @@ South Australia (SA) | Beginner Print & Pre-Cursive Print | [Read more](https://
 
 ## View and/or Install the Fonts ##
 
+To view the fonts without installing them:
+
+<details>
+   <summary>Click here</summary>
 Click the link above matching the Australian State that you live in. 
 
 1. Download the .zip file and unpack it. 
 2. Double-click the .html file.
 3. Adjust the sliders at the top of the page.
 
-![Font Viewer](https://user-images.githubusercontent.com/34974280/174446978-9288fcce-d94a-43e5-90e3-2094f2c951fa.png)
+![Font Viewer](https://user-images.githubusercontent.com/34974280/174448031-b3235cea-d3f9-4194-9a05-d9e2d5585775.png)
+</details>
 
 To install the fonts choose an option:
 
