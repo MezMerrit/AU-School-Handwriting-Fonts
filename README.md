@@ -6,17 +6,17 @@ The initial weight of these English language font-sets is intended to imitate th
 
 - - - -
 
-![[link|width=400px]](https://user-images.githubusercontent.com/34974280/174439881-58459016-de6c-4157-b1f7-daa7bdd160c4.png "Regular")
-
-- - - -
-
-![[link|width=400px]](https://user-images.githubusercontent.com/34974280/174439884-ef3fcedd-e528-4305-bf4f-0617badb77ce.png "Bold")
+![sample png 001](https://user-images.githubusercontent.com/34974280/174459443-0ff74b95-a75f-490b-a56d-c250174e2a3a.png)
 
 - - - -
 
 The AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. 
 
+- - - -
+
 ![[link|width=400px]](https://user-images.githubusercontent.com/34974280/159198981-e06b4972-3e52-4065-a402-58fd5b1ba301.png "NSW Ruled Exercise Book")
+
+- - - -
 
 ## Description ##
 
@@ -34,6 +34,8 @@ Western Australia (WA) | Print & Infant Cursive | 10º | [Read more](https://git
 South Australia (SA) | Beginner Print & Pre-Cursive Print | 6º | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/SA-School-Fonts "Read more")
 
 The "documentation" subdirectories contain PDF's for each State's handwriting requirements, along with proofs to inspect the font before downloading it.
+
+- - - -
 
 ## View and/or Install the Fonts ##
 
@@ -78,6 +80,8 @@ To install the fonts choose an option:
 
 This project contains the binary font files for all Australian states. Each family's subdirectory contains the .ttf font file sets, the source files and a .zip file to locally test the font in a variable font viewer without installing.
 
+- - - -
+
 ## Build from gftool ##
 
 Fonts are built automatically by GitHub Actions - look under the "Actions" tab for the latest build.
@@ -94,11 +98,15 @@ You can also build the font locally, after cloning this repository.
 4. go to the "sources" directory and from the terminal, run : gftools builder config.yaml
 ```
 
+- - - -
+
 ## Bugs & Improvements ##
 
 These fonts are the result of a collaborative project, where you are invited to discuss issues and even contribute to their ongoing development by way of suggestions.
 
 If you find a problem with a font file or have a request for the future development of its cursive counterpart, [please create a new issue in this project's issue tracker](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/issues "Go to the issue tracker").
+
+- - - -
 
 ## Future Development ##
 
@@ -136,6 +144,8 @@ Copyright (c) 2022 The AU School Handwriting Fonts Project Authors (https://gith
 These Fonts are licensed under the SIL Open Font License, Version 1.1. This license is copied [here](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/blob/main/OFL.txt "SIL Open Font License"), and is also available with a FAQ at: (https://scripts.sil.org/OFL).
 
 The fonts files themselves also contain licensing and authorship metadata.
+
+- - - -
 
 # Repository Layout #
 
