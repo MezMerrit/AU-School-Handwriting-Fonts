@@ -2,10 +2,10 @@
 
 This font includes both:
 
-- Queensland Beginners Alphabet - a simple sloped print for early primary school
-- Queensland Beginners Cursive - transitional joining letter alternates (pre-cursive stage)
+- QBeginners Alphabet - a simple sloped print for early primary school
+- QBeginners Precursive - transitional joining letter alternates (pre-cursive stage)
 
-Students in Queensland learn QBeginners from years 1 to 3 and QCursive from year 4. 
+Students in Queensland learn QBeginners from years 1 to 3 and QBeginners Precursive from year 4. 
 
 - - - -
 
