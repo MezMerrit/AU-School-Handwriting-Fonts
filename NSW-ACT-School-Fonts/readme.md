@@ -1,4 +1,4 @@
-# NSW-ACT-School-Fonts
+# NSW-ACT School Fonts
 
 This font includes both:
 
