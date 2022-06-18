@@ -1,4 +1,4 @@
-# VIC WA NT School Fonts
+# VIC-WA-NT School Fonts
 
 This font includes:
 
