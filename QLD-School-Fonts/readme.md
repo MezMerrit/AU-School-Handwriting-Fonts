@@ -1,6 +1,6 @@
 # QLD School Fonts
 
-This font-set includes both:
+This font includes both:
 
 - Queensland Beginners Alphabet - a simple sloped print for early primary school
 - Queensland Beginners Cursive - transitional joining letter alternates (pre-cursive stage)
@@ -9,7 +9,7 @@ Students in Queensland learn QBeginners from years 1 to 3 and QCursive from year
 
 - - - -
 
-![QLD]([https://user-images.githubusercontent.com/34974280/174457438-a6719e76-90b5-4fe1-8bd2-e94b2d2c2520.png](https://user-images.githubusercontent.com/34974280/174457555-8ab0a178-a20d-4027-aab2-9bcc1e91e771.png))
+![QLD]([https://user-images.githubusercontent.com/34974280/174457438-a6719e76-90b5-4fe1-8bd2-e94b2d2c2520.png](https://user-images.githubusercontent.com/34974280/174457555-8ab0a178-a20d-4027-aab2-9bcc1e91e771.png)
 
 - - - -
 
