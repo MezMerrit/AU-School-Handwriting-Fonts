@@ -98,21 +98,24 @@ If you find a problem with a font file or have a request for the future developm
 
 # Acknowledgements & Credits #
 
-- Santiago Orozco
-- David Berlow
-- Rosalie Wagner
-- Corey Anderson
-- Tina Anderson
+Thanks to "Google for Education" for supporting little Australian schoolies and making these fonts widely and freely avaible to everyone. The following contributors made this project happen, their hard work is muchly appreciated!
+
+- Santiago Orozco (Typefacing Intricacies)
+- David Berlow (Production Manager)
+- Rosalie Wagner (Final Proofs and Product Output)
+- Corey Anderson (Calligraphy Artist)
+- Tina Anderson (Font Design)
 
 - - - -
 
 # Changelog #
 
-**June 2022**
+**2022**
 
 Date          | Description
 ------------- | -------------
-Jun 18, 2022  | First release
+Jan 10        | Initial commit
+Jun 18        | First release
 
 - - - -
 
