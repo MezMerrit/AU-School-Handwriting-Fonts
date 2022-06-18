@@ -6,7 +6,7 @@ The initial weight of these English language font-sets is intended to imitate th
 
 - - - -
 
-![sample png 001](https://user-images.githubusercontent.com/34974280/174459443-0ff74b95-a75f-490b-a56d-c250174e2a3a.png)
+![sample](https://user-images.githubusercontent.com/34974280/174459732-14fd5a24-7840-4f45-8de7-b179cbee6dc9.png)
 
 - - - -
 
