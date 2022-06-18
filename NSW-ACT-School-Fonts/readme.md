@@ -7,6 +7,7 @@ This font includes both:
 
 Students in New South Wales and Australian Capital Territory learn Foundation Print from years 1 to 2 and Beginner Cursive from year 3.
 
+
 ![NSW-ACT](https://user-images.githubusercontent.com/34974280/174453277-933608a6-46f3-4aa4-8f23-0a69c786decb.png)
 
 ## Font Styles ##
@@ -20,7 +21,9 @@ Weight        | Style
 
 ## Using Open Type Features ##
 
-To access alternate glyphs in Adobe InDesign or Illustrator, choose *Window > Type & Tables > Glyphs*; in Photoshop, choose *Window > Glyphs*. In the panel that opens, click *Show menu* and choose *Alternates for Selection*. Double-click an alternate's thumbnail to swap them out.
+To access alternate glyphs in Adobe InDesign or Illustrator, choose *Window > Type & Tables > Glyphs*.
+
+In Photoshop, choose *Window > Glyphs*. In the panel that opens, click *Show menu* and choose *Alternates for Selection*. Double-click an alternate's thumbnail to swap them out.
 
 More info about using Open Type features [here](https://www.fonts.com/content/learning/fontology/level-4/fine-typography/locating-alternate-glyphs).
 
