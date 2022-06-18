@@ -7,8 +7,11 @@ This font includes both:
 
 Students in New South Wales and Australian Capital Territory learn Foundation Print from years 1 to 2 and Beginner Cursive from year 3.
 
+- - - -
 
-![NSW-ACT](https://user-images.githubusercontent.com/34974280/174457359-23b7daba-5711-42cd-99fc-0055199ff337.png)
+![NSW-ACT](https://user-images.githubusercontent.com/34974280/174457438-a6719e76-90b5-4fe1-8bd2-e94b2d2c2520.png)
+
+- - - -
 
 ## Font Styles ##
 
