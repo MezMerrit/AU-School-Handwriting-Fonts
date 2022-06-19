@@ -21,20 +21,20 @@ In lower primary school some Australian States teach different handwriting style
 
 The handwriting styles expected by each State's Education Department are summarized as follows:
 
-State | Year 1 to 2/3 | Year 3/4+ | Alt Inc | Small Caps | Link
+State | Year 1 to 2/3 | Year 3/4+ | Alts | SMC | Link
 | :--- | :--- | :--- | :--- | :--- | :---
-Queensland (QLD)  | QBeginners Print | QBeginners Pre-Cursive | [x] | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/QLD-School-Fonts "Read more")
-New South Wales (NSW) | Foundation Print | Foundation Pre-Cursive | [x] | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
-Tasmania (TAS) | Beginner Print | Pre-Cursive Print | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/TAS-School-Fonts "Read more")
-Australian Capital Territory (ACT) | Foundation Print | Foundation Pre-Cursive | [x] | [ ] |  [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
+Queensland (QLD)  | QBeginners Print | QBeginners Precursive | [x] | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/QLD-School-Fonts "Read more")
+New South Wales (NSW) | Foundation Print | Foundation Precursive | [x] | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
+Tasmania (TAS) | Beginner Print | Precursive Print | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/TAS-School-Fonts "Read more")
+Australian Capital Territory (ACT) | Foundation Print | Foundation Precursive | [x] | [ ] |  [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
 Victoria (VIC) | Print | Infant Cursive | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
 Northern Territory (NT) | Print | Infant Cursive | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
 Western Australia (WA) | Print | Infant Cursive | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
-South Australia (SA) | Beginner Print &|Pre-Cursive Print | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/SA-School-Fonts "Read more")
+South Australia (SA) | Beginner Print | Precursive Print | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/SA-School-Fonts "Read more")
 
 ```
-Alt Inc: Denotes whether [x] or not [ ] the transitional precursive glyphs have been completed/included.
-Small Caps: Denotes whether [x] or not [ ] small caps glyphs have been completed/included.
+Alts: Denotes whether [x] or not [ ] the transitional precursive alternate glyphs have been included.
+SMC: Denotes whether [x] or not [ ] small caps glyphs have been included.
 ```
 
 - - - -
@@ -110,7 +110,9 @@ If you find a problem with a font file or have a request for the future developm
 
 - - - -
 
-## Future Development ##
+## Ongoing & Future Development ##
+
+Some transitional precursive alternate glyph-sets are still under development, along with some small caps. Common math symbols used by Years 1 to 4 have been included in all sets. Advanced math symbols will come along with future development.
 
 The full cursive counterparts (for years 4-5 onward) will be developed in due course, using a different software package designed specifically for cursive fonts in school/teaching environments.
 
