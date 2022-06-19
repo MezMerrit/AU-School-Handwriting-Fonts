@@ -17,20 +17,25 @@ The AU School Handwriting Fonts are purposefully designed with minimal under and
 
 ## Description ##
 
-In lower primary school some Australian States teach different handwriting styles, while some States share the same style. The handwriting styles expected by each State's Education Department are as follows:
+In lower primary school some Australian States teach different handwriting styles, while some States share the same style. The "documentation" subdirectories contain PDF's for each State's style requirements, along with proofs to inspect the font before downloading it.
 
-State | Year 1 to 2/3 | Year 3/4+ | Alt Inc | Link
+The handwriting styles expected by each State's Education Department are summarized as follows:
+
+State | Year 1 to 2/3 | Year 3/4+ | Alt Inc | Small Caps | Link
 | :--- | :--- | :--- | :--- | :---
-Queensland (QLD)  | QBeginners Print | QBeginners Pre-Cursive | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/QLD-School-Fonts "Read more")
-New South Wales (NSW) | Foundation Print | Foundation Pre-Cursive | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
-Tasmania (TAS) | Beginner Print | Pre-Cursive Print | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/TAS-School-Fonts "Read more")
-Australian Capital Territory (ACT) | Foundation Print | Foundation Pre-Cursive | [x] |  [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
-Victoria (VIC) | Print | Infant Cursive | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
-Northern Territory (NT) | Print | Infant Cursive | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
-Western Australia (WA) | Print | Infant Cursive | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
-South Australia (SA) | Beginner Print &|Pre-Cursive Print | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/SA-School-Fonts "Read more")
+Queensland (QLD)  | QBeginners Print | QBeginners Pre-Cursive | [x] | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/QLD-School-Fonts "Read more")
+New South Wales (NSW) | Foundation Print | Foundation Pre-Cursive | [x] | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
+Tasmania (TAS) | Beginner Print | Pre-Cursive Print | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/TAS-School-Fonts "Read more")
+Australian Capital Territory (ACT) | Foundation Print | Foundation Pre-Cursive | [x] | [ ] |  [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
+Victoria (VIC) | Print | Infant Cursive | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+Northern Territory (NT) | Print | Infant Cursive | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+Western Australia (WA) | Print | Infant Cursive | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+South Australia (SA) | Beginner Print &|Pre-Cursive Print | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/SA-School-Fonts "Read more")
 
-The "documentation" subdirectories contain PDF's for each State's handwriting requirements, along with proofs to inspect the font before downloading it.
+```
+Alt Inc: Denotes whether [x] or not [ ] the transitional precursive glyphs have been completed/included.
+Small Caps: Denotes whether [x] or not [ ] small caps glyphs have been completed/included.
+```
 
 - - - -
 
