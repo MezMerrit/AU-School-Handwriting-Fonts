@@ -4,9 +4,9 @@ Students in New South Wales and Australian Capital Territory learn Foundation Pr
 
 This font includes:
 
-- Foundation Manuscript - a simple sloped print for years 1 and 2
-- Foundation PreCursive - transitional joining letter alternates for year 3+
-- Foundation Small Caps - decorative variation for heading styles & emphasis etc
+✅ Foundation Manuscript - a simple sloped print for years 1 and 2
+✅ Foundation PreCursive - transitional joining letter alternates for year 3+
+✅ Foundation Small Caps - decorative variation for heading styles & emphasis etc
 
 - - - -
 
