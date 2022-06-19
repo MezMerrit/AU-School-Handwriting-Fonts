@@ -42,8 +42,10 @@ Western Australia (WA) | Print | Infant Cursive | [ ] | [ ] | [Read more](https:
 South Australia (SA) | Beginner Print | Precursive Print | [ ] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/SA-School-Fonts "Read more")
 
 ```
-Alts: Denotes whether [x] or not [ ] the transitional precursive alternate glyphs have been included.
+Alts: Denotes whether [x] or not [ ] the transitional precursive alternate glyphs are included.
 SMC: Denotes whether [x] or not [ ] small caps glyphs have been included.
+
+* Additions will be made to this guide as they are completed and the files are updated.
 ```
 
 - - - -
