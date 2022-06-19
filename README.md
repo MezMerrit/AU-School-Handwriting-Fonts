@@ -11,13 +11,19 @@ The initial weight of these English language font-sets is intended to imitate th
 
 - - - -
 
-The AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. Adjusting the fonts to fit dotted thirds pre-ruled mediums can be achieved using Adobe products or, alternatively Inkscape (a free Open Source alternative for parents).
+## Features ##
+
+Each font contains every possible character produced by an English language keyboard, including common math symbols used by students from Years 1 to 4.
+
+Additionally, AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. Adjusting the fonts to fit dotted thirds pre-ruled mediums can be achieved using Adobe products.
+
+Each font directory contains a stabdalone OpenType Font Viewer with which to inspect that font's scalability without installing it or any additional software.
 
 - - - -
 
 ## Description ##
 
-In lower primary school some Australian States teach different handwriting styles, while some States share the same style. The "documentation" subdirectories contain PDF's for each State's style requirements, along with proofs to inspect the font before downloading it.
+In lower primary school some Australian States teach different handwriting styles, while some States share the same style. The "documentation" subdirectories contain PDF's for each State's style requirements.
 
 The handwriting styles expected by each State's Education Department are summarized as follows:
 
@@ -80,7 +86,7 @@ To install the fonts choose an option:
 
 ## Ongoing & Future Development ##
 
-Some transitional precursive alternate glyph-sets are still under development, along with some small caps. Common math symbols used by Years 1 to 4 have been included in all sets. Advanced math symbols will come along with future development.
+Some transitional precursive alternate glyph-sets are still under development, along with some small caps. Advanced math symbols will also come along with future development.
 
 The full cursive counterparts (for years 4-5 onward) will be developed in due course, using a different software package designed specifically for cursive fonts in school/teaching environments. 
 
@@ -88,7 +94,7 @@ The full cursive counterparts (for years 4-5 onward) will be developed in due co
 
 # About This Project #
 
-This project contains the binary font files for all Australian states. Each family's subdirectory contains the .ttf font file sets, the source files and a .zip file to locally test the font in a variable font viewer without installing.
+This project contains the binary font files for all Australian states. Each family's subdirectory contains the .ttf font file sets, as well as source files.
 
 - - - -
 
@@ -120,7 +126,7 @@ If you find a problem with a font file or have a request for the future developm
 
 # Acknowledgements & Credits #
 
-Thanks to "Google for Education" for supporting little Australian schoolies and making these fonts widely and freely avaible to everyone. The following contributors made this project happen, their hard work is muchly appreciated!
+Thanks to "Google for Education" for supporting little Australian schoolies and making these fonts widely and freely avaible to everyone. The following contributors made this project happen, their hard work and dedication is muchly appreciated!
 
 - Santiago Orozco (Typefacing Intricacies)
 - David Berlow (Production Manager)
