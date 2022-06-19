@@ -2,7 +2,7 @@
 
 The AU School Handwriting Fonts are a variable typeface family designed specifically to meet Australian education standards. While carefully crafted to work well in a classroom environment, the fonts are handy outside the classroom as well.
 
-The initial weight of these English language font-sets is intended to imitate the pencil thickness of actual handwriting, however they may be adjusted as desired in your usual word processor, or they can be used in software that supports variable fonts (such as Adobe) to make full use of alternate glyphs for transitional handwriting stages between grades 1 and 3.
+The initial weight of these English language font-sets is intended to imitate the pencil thickness of actual handwriting, however they may be adjusted as desired in your usual word processor, or they can be used in software that supports Open Type Fonts (such as Adobe) to make full use of alternate glyphs for transitional handwriting stages between grades 1 and 3.
 
 
 - - - -
