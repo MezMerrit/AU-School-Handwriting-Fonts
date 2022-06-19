@@ -22,7 +22,7 @@ In lower primary school some Australian States teach different handwriting style
 The handwriting styles expected by each State's Education Department are summarized as follows:
 
 State | Year 1 to 2/3 | Year 3/4+ | Alt Inc | Small Caps | Link
-| :--- | :--- | :--- | :--- | :---
+| :--- | :--- | :--- | :--- | :--- | :---
 Queensland (QLD)  | QBeginners Print | QBeginners Pre-Cursive | [x] | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/QLD-School-Fonts "Read more")
 New South Wales (NSW) | Foundation Print | Foundation Pre-Cursive | [x] | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
 Tasmania (TAS) | Beginner Print | Pre-Cursive Print | [x] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/TAS-School-Fonts "Read more")
