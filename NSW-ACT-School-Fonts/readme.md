@@ -9,7 +9,7 @@ Students in New South Wales and Australian Capital Territory learn Foundation Pr
 
 - - - -
 
-![NSW-ACT](https://user-images.githubusercontent.com/34974280/174457438-a6719e76-90b5-4fe1-8bd2-e94b2d2c2520.png)
+![glyphs](https://user-images.githubusercontent.com/34974280/174497609-d0fcf5d5-ea7f-4632-8aa2-5f3060e6c0d9.png)
 
 - - - -
 
