@@ -1,11 +1,14 @@
 # QLD School Fonts
 
-This font includes both:
-
-- QBeginners Alphabet - a simple sloped print for early primary school
-- QBeginners Precursive - transitional joining letter alternates (pre-cursive stage)
-
 Students in Queensland learn QBeginners from years 1 to 3 and QBeginners Precursive from year 4. 
+
+This font includes:
+
+Completed | Name | Description
+| :---: | :--- | :---
+✅ | QBeginners Alphabet | a simple sloped print for early primary school
+❌ | QBeginners Precursive | transitional joining letter alternates
+❌ | Small Caps | decorative variation for heading styles & emphasis etc
 
 - - - -
 
@@ -22,13 +25,9 @@ Weight        | Style        | Slope
 600           | Semi Bold    | 10º
 700           | Bold         | 10º
 
-## Using Open Type Features ##
+## Ongoing Development ##
 
-To access alternate glyphs in Adobe InDesign or Illustrator, choose *Window > Type & Tables > Glyphs*.
-
-In Photoshop, choose *Window > Glyphs*. In the panel that opens, click *Show menu* and choose *Alternates for Selection*. Double-click an alternate's thumbnail to swap them out.
-
-More info about using Open Type features [here](https://www.fonts.com/content/learning/fontology/level-4/fine-typography/locating-alternate-glyphs).
+Design work for Precursive and Small Caps has been completed and is currently awaiting a team member to implement.
 
 - - - -
 
@@ -40,6 +39,7 @@ Date          | Description
 ------------- | -------------
 Jan 10        | Initial commit
 Jun 18        | First release
+Jun 20        | Reset default font size to 11pt
 
 - - - -
 
