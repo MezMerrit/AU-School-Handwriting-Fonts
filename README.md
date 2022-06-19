@@ -1,8 +1,8 @@
 # AU School Handwriting Fonts
 
-The AU School Handwriting Fonts are a variable typeface family designed specifically to meet Australian education standards. While carefully crafted to work well in a classroom environment, they are handy outside the classroom as well.
+The AU School Handwriting Fonts are an English language, OpenType, variable typeface family designed specifically to meet Australian Education standards.  While weights and widths and optical sizes were carefully crafted to work well in an Australian classroom environment, they are just as comfortable to read and work with in the home environment. 
 
-The initial weight of these English language font-sets is intended to imitate the pencil thickness of actual handwriting, however they may be adjusted as desired in a 
+AU School Handwriting Fonts range in weights from 300 to 600, making them useful for print media as well. Default versions of the fonts come with OpenType features to aid in transitional stages between learning basic handwriting to the initial cursive stage. Each font contains every possible character produced by an English language keyboard, including common math symbols used by Australian students from Years 1 to 4.
 
 - - - -
 
@@ -12,11 +12,11 @@ The initial weight of these English language font-sets is intended to imitate th
 
 ## Features ##
 
-Aside of typical use, the fonts can also be used in software that supports Open Type Fonts (such as Adobe or Mac's native Pages application) to make full use of alternate glyphs for precursive variations (as shown below).
+The regular weight of the font family is intended to imitate the pencil thickness of actual handwriting, however the scalability of the fonts enables them to be widely varied according to intended usage.
+
+The fonts can also be used in software that supports OpenType Fonts (such as Adobe or Mac's native Pages application) to make full use of alternate glyphs for precursive variations (as shown below).
 
 ![opentype-ani](https://user-images.githubusercontent.com/34974280/174490884-cc6b3630-c1d4-4711-b878-0ff5e73a1cf2.gif)
-
-Each font contains every possible character produced by an English language keyboard, including common math symbols used by students from Years 1 to 4.
 
 Additionally, AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. Adjusting the fonts to fit dotted thirds pre-ruled mediums can be achieved using Adobe products.
 
@@ -35,7 +35,7 @@ State | Year 1 to 2/3 | Year 3/4+ | Alts | SMC | Link
 Queensland (QLD)  | QBeginners Print | QBeginners Precursive | [ ] | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/QLD-School-Fonts "Read more")
 New South Wales (NSW) | Foundation Print | Foundation Precursive | [x] | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
 Tasmania (TAS) | Beginner Print | Precursive Print | [ ] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/TAS-School-Fonts "Read more")
-Australian Capital Territory (ACT) | Foundation Print | Foundation Precursive | [ ] | [ ] |  [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
+Australian Capital Territory (ACT) | Foundation Print | Foundation Precursive | [x] | [x] |  [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
 Victoria (VIC) | Print | Infant Cursive | [ ] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
 Northern Territory (NT) | Print | Infant Cursive | [ ] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
 Western Australia (WA) | Print | Infant Cursive | [ ] | [ ] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
