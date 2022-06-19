@@ -19,16 +19,16 @@ The AU School Handwriting Fonts are purposefully designed with minimal under and
 
 In lower primary school some Australian States teach different handwriting styles, while some States share the same style. The handwriting styles expected by each State's Education Department are as follows:
 
-State | Style Name | Slope | Link
-| :--- | :--- | :--- | :---
-Queensland (QLD)  | QBeginners Print & QBeginners Pre-Cursive | 10º | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/QLD-School-Fonts "Read more")
-New South Wales (NSW) | Foundation Print & Foundation Pre-Cursive | 6º | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
-Tasmania (TAS) | Beginner Print & Pre-Cursive Print | 14º | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/TAS-School-Fonts "Read more")
-Australian Capital Territory (ACT) | Foundation Print & Foundation Pre-Cursive | 6º |  [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
-Victoria (VIC) | Print & Infant Cursive | 10º| [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
-Northern Territory (NT) | Print & Infant Cursive | 10º | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
-Western Australia (WA) | Print & Infant Cursive | 10º | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
-South Australia (SA) | Beginner Print & Pre-Cursive Print | 6º | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/SA-School-Fonts "Read more")
+State | Year 1 to 2/3 | Year 3/4+ | Alt Inc | Link
+| :--- | :--- | :--- | :--- | :---
+Queensland (QLD)  | QBeginners Print | QBeginners Pre-Cursive | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/QLD-School-Fonts "Read more")
+New South Wales (NSW) | Foundation Print | Foundation Pre-Cursive | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
+Tasmania (TAS) | Beginner Print | Pre-Cursive Print | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/TAS-School-Fonts "Read more")
+Australian Capital Territory (ACT) | Foundation Print | Foundation Pre-Cursive | [x] |  [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/NSW-ACT-School-Fonts "Read more")
+Victoria (VIC) | Print | Infant Cursive | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+Northern Territory (NT) | Print | Infant Cursive | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+Western Australia (WA) | Print | Infant Cursive | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+South Australia (SA) | Beginner Print &|Pre-Cursive Print | [x] | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/SA-School-Fonts "Read more")
 
 The "documentation" subdirectories contain PDF's for each State's handwriting requirements, along with proofs to inspect the font before downloading it.
 
