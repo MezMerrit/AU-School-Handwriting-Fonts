@@ -1,19 +1,22 @@
 # NSW-ACT School Fonts
 
-This font includes both:
-
-- Foundation Print - a simple sloped print for early primary school
-- Foundation Cursive - transitional joining letter alternates (pre-cursive stage)
-
 Students in New South Wales and Australian Capital Territory learn Foundation Print from years 1 to 2 and Beginner Cursive from year 3.
 
+This font includes:
+
+- Foundation Manuscript - a simple sloped print for years 1 and 2
+- Foundation PreCursive - transitional joining letter alternates for year 3+
+- Foundation Small Caps - decorative variation for heading styles & emphasis etc
+
 - - - -
+
+## Character Set ##
 
 ![glyphs](https://user-images.githubusercontent.com/34974280/174497609-d0fcf5d5-ea7f-4632-8aa2-5f3060e6c0d9.png)
 
 - - - -
 
-## Font Styles ##
+## Standard Font Weights ##
 
 Weight        | Style        | Slope
 ------------- | -------------| -------------
@@ -22,13 +25,15 @@ Weight        | Style        | Slope
 600           | Semi Bold    | 6º
 700           | Bold         | 6º
 
-## Using Open Type Features ##
+## Using OpenType Features ##
 
 To access alternate glyphs in Adobe InDesign or Illustrator, choose *Window > Type & Tables > Glyphs*.
 
 In Photoshop, choose *Window > Glyphs*. In the panel that opens, click *Show menu* and choose *Alternates for Selection*. Double-click an alternate's thumbnail to swap them out.
 
-More info about using Open Type features [here](https://www.fonts.com/content/learning/fontology/level-4/fine-typography/locating-alternate-glyphs).
+In Pages (Mac only) click *Format > Font > Show Fonts*, then from the *Fonts* panel click the burger menu and choose *Typography*.
+
+![Pages](https://user-images.githubusercontent.com/34974280/174490884-cc6b3630-c1d4-4711-b878-0ff5e73a1cf2.gif)
 
 
 - - - -
@@ -41,6 +46,7 @@ Date          | Description
 ------------- | -------------
 Jan 10        | Initial commit
 Jun 18        | First release
+Jun 20        | Adjusted default font size to 11pt
 
 - - - -
 
