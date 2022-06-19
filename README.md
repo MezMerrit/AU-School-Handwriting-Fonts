@@ -1,8 +1,8 @@
 # AU School Handwriting Fonts
 
-The AU School Handwriting Fonts are a variable typeface family designed specifically to meet Australian education standards. While carefully crafted to work well in a classroom environment, the fonts are handy outside the classroom as well.
+The AU School Handwriting Fonts are a variable typeface family designed specifically to meet Australian education standards. While carefully crafted to work well in a classroom environment, they are handy outside the classroom as well.
 
-The initial weight of these English language font-sets is intended to imitate the pencil thickness of actual handwriting, however they may be adjusted as desired in your usual word processor, or they can be used in software that supports Open Type Fonts (such as Adobe) to make full use of alternate glyphs for transitional handwriting stages between grades 1 and 3.
+The initial weight of these English language font-sets is intended to imitate the pencil thickness of actual handwriting, however they may be adjusted as desired in a word processor, or they can be used in software that supports Open Type Fonts (such as Adobe) to make full use of alternate glyphs for transitional handwriting stages between print and cursive.
 
 
 - - - -
@@ -11,7 +11,7 @@ The initial weight of these English language font-sets is intended to imitate th
 
 - - - -
 
-The AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers.
+The AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. Adjusting the fonts to fit dotted thirds pre-ruled mediums can be achieved using Adobe products or, alternatively Inkscape (a free Open Source alternative for parents).
 
 - - - -
 
@@ -78,6 +78,14 @@ To install the fonts choose an option:
 
 - - - -
 
+## Ongoing & Future Development ##
+
+Some transitional precursive alternate glyph-sets are still under development, along with some small caps. Common math symbols used by Years 1 to 4 have been included in all sets. Advanced math symbols will come along with future development.
+
+The full cursive counterparts (for years 4-5 onward) will be developed in due course, using a different software package designed specifically for cursive fonts in school/teaching environments. 
+
+- - - -
+
 # About This Project #
 
 This project contains the binary font files for all Australian states. Each family's subdirectory contains the .ttf font file sets, the source files and a .zip file to locally test the font in a variable font viewer without installing.
@@ -107,14 +115,6 @@ You can also build the font locally, after cloning this repository.
 These fonts are the result of a collaborative project, where you are invited to discuss issues and even contribute to their ongoing development by way of suggestions.
 
 If you find a problem with a font file or have a request for the future development of its cursive counterpart, [please create a new issue in this project's issue tracker](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/issues "Go to the issue tracker").
-
-- - - -
-
-## Ongoing & Future Development ##
-
-Some transitional precursive alternate glyph-sets are still under development, along with some small caps. Common math symbols used by Years 1 to 4 have been included in all sets. Advanced math symbols will come along with future development.
-
-The full cursive counterparts (for years 4-5 onward) will be developed in due course, using a different software package designed specifically for cursive fonts in school/teaching environments.
 
 - - - -
 
