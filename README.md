@@ -4,6 +4,8 @@ The AU School Handwriting Fonts are an English language, OpenType, variable type
 
 AU School Handwriting Fonts range in weights from 400 to 700, making them useful for print media as well. Default versions of the fonts come with OpenType features to aid in transitional stages between learning basic handwriting to the initial cursive stage. Each font contains every possible character produced by an English language keyboard, including common math symbols used by Australian students from Years 1 to 4.
 
+Google Workspace users are provided standard versions online, however they may download or build the complete OpenType versions from GitHub for local installations.
+
 - - - -
 
 ![sample 001](https://user-images.githubusercontent.com/34974280/174480772-0263a627-f43b-49bd-9ca0-935cd7906826.png)
@@ -45,28 +47,29 @@ South Australia (SA) | Beginner Print | Precursive Print | ❌ | ❌ | [Read mor
 Alts: Denotes whether ✅ or not ❌ the transitional precursive alternate glyphs are included.
 SMC: Denotes whether ✅ or not ❌ small caps glyphs have been included.
 
-* Additions will be made to this guide as they are completed and the files are updated.
+* Additions will be made to this guide as they are completed and the fonts are updated.
 ```
 
 - - - -
 
 ## View and/or Install the Fonts ##
 
-To view the fonts without installing them:
+To view the variable fonts without installing them:
 
 <details>
    <summary>Click here</summary>
 
-Click the link above matching the Australian State that you live in. 
+Click the link above matching the Australian State that you live in. Then:
 
 1. Download the font-viewer.zip file and unpack it. 
 2. Double-click the .html file.
 3. Adjust the sliders at the top of the page.
 
 ![Font Viewer](https://user-images.githubusercontent.com/34974280/174448031-b3235cea-d3f9-4194-9a05-d9e2d5585775.png)
+
 </details>
 
-To install the fonts choose an option:
+To manually install the fonts choose an option:
 
 <details>
   <summary>Windows</summary>
@@ -99,9 +102,11 @@ The full cursive counterparts (for years 4-5 onward) will be developed in due co
 
 # About This Project #
 
-This project contains the binary font files for all Australian states. Google Workspace users are provided standard versions online, however they may download or build the complete OpenType versions from GitHub for local installations.
+This project contains the binary font files for all Australian states. 
 
-Each family's subdirectory contains .ttf font file sets, as well as .glyphs source files. Standard installation instructions are provided above, otherwise instructions for the build tools are provided below.
+Each family's subdirectory contains .ttf font file sets, as well as .glyphs source files. 
+
+Standard installation instructions are provided above, otherwise instructions for the build tools are provided below.
 
 - - - -
 
