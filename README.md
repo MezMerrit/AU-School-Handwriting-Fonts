@@ -136,15 +136,21 @@ If you find a problem with a font file or have a request for the future developm
 
 - - - -
 
-# Acknowledgements & Credits #
+# Credits #
 
-Thanks to "Google for Education" for supporting little Australian schoolies and making these fonts widely and freely avaible to everyone. The following contributors made this project happen, their hard work and dedication is muchly appreciated!
+### Calligraphy Artist ###
+- Corey Anderson
 
-- Santiago Orozco (Typefacing Intricacies)
-- David Berlow (Production Manager)
-- Rosalie Wagner (Final Proofs and Product Output)
-- Corey Anderson (Calligraphy Artist)
-- Tina Anderson (Font Design)
+### Typeface Designer ###
+- Tina Anderson
+
+### Team Leads ###
+- David Berlow
+- Dave Crossland
+
+### Typeface Production ###
+- Rosalie Wagner 
+- Santiago Orozco
 
 - - - -
 

@@ -50,6 +50,24 @@ Jun 20        | Reset default font size to 11pt
 
 - - - -
 
+ Credits #
+
+### Calligraphy Artist ###
+- Corey Anderson
+
+### Typeface Designer ###
+- Tina Anderson
+
+### Team Leads ###
+- David Berlow
+- Dave Crossland
+
+### Typeface Production ###
+- Rosalie Wagner 
+- Santiago Orozco
+
+- - - -
+
 # License #
 
 Copyright (c) 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)
