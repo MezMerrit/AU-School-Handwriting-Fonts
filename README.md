@@ -1,6 +1,6 @@
 # AU School Handwriting Fonts
 
-The AU School Handwriting Fonts are an English language, OpenType, variable typeface family designed specifically to meet Australian Education standards.  While weights and widths and optical sizes were carefully crafted to work well in an Australian classroom environment, they are just as comfortable to read and work with in the home environment. 
+The AU School Handwriting Fonts are an English language, OpenType, variable typeface family designed specifically to meet Australian Education standards.  While weights, widths and optical sizes were carefully crafted to work well in an Australian classroom environment, they are just as comfortable to read and work with in the home environment. 
 
 AU School Handwriting Fonts range in weights from 400 to 700, making them useful for print media as well. Default versions of the fonts come with OpenType features to aid in transitional stages between learning basic handwriting to the initial cursive stage. Each font contains every possible character produced by an English language keyboard, including common math symbols used by Australian students from Years 1 to 4.
 
@@ -14,7 +14,7 @@ AU School Handwriting Fonts range in weights from 400 to 700, making them useful
 
 The regular weight of the font family is intended to imitate the pencil thickness of actual handwriting, however the scalability of the fonts enables them to be widely varied according to intended usage.
 
-The fonts can also be used in software that supports OpenType Fonts (such as Adobe or Mac's native Pages application) to make full use of alternate glyphs for precursive variations (as shown below).
+The fonts can also be used in software that supports OpenType Fonts (such as Adobe products or Mac's native Pages application) to make full use of alternate glyphs for precursive variations (as shown below).
 
 ![opentype-ani](https://user-images.githubusercontent.com/34974280/174490884-cc6b3630-c1d4-4711-b878-0ff5e73a1cf2.gif)
 
@@ -45,7 +45,7 @@ South Australia (SA) | Beginner Print | Precursive Print | [ ] | [ ] | [Read mor
 Alts: Denotes whether [x] or not [ ] the transitional precursive alternate glyphs are included.
 SMC: Denotes whether [x] or not [ ] small caps glyphs have been included.
 
-* Additions will be made to this guide as they are completed and the files are updated.
+* Additions will be made to this guide as they are completed and the files are updated. ✅
 ```
 
 - - - -
