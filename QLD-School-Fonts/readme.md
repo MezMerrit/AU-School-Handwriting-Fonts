@@ -8,11 +8,11 @@ Completed | Name | Description
 | :---: | :--- | :---
 ✅ | QBeginners Alphabet | a simple sloped print for early primary school
 ❌ | QBeginners Precursive | transitional joining letter alternates
-❌ | Small Caps | decorative variation for heading styles & emphasis etc
+✅ | Small Caps | decorative variation for heading styles & emphasis etc
 
 - - - -
 
-![QLD](https://user-images.githubusercontent.com/34974280/174457710-2a86b874-bf16-4bc0-8944-f55f6ab26ce7.png)
+![QLD](https://user-images.githubusercontent.com/34974280/174540298-8cdaa6dc-c615-49ea-89b5-b84fd076c78d.png)
 
 - - - -
 
@@ -27,7 +27,7 @@ Weight        | Style        | Slope
 
 ## Ongoing Development ##
 
-Design work for Precursive and Small Caps has been completed and is currently awaiting a team member to implement.
+Design work for the Precursive variation has been completed and is currently awaiting a team member to implement.
 
 - - - -
 
