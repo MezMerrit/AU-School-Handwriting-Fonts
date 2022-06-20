@@ -1,15 +1,20 @@
 # TAS School Fonts
 
+Students in Tasmania learn the Beginner Alphabet from years 1 and 2, moving on to Pre-Cursive from year 3.
+
 This font includes:
 
-- Beginner Alphabet - a simple sloped print for early primary school
-- Precursive Alphabet - transitional joining letter alternates
-
-Students in Tasmania learn the Beginner Alphabet from years 1 and 2, moving on to Pre-Cursive from year 3.
+Completed | Name | Description
+| :---: | ---: | :---
+✅ | Beginner Print | a simple sloped print for years 1 and 2
+❌ | Beginner PreCursive | transitional joining letter alternates for year 3+
+❌ | Beginner Small Caps | decorative variation for heading styles & emphasis etc
 
 - - - -
 
-![TAS](https://user-images.githubusercontent.com/34974280/174457885-14e457d7-2139-4ff6-ad1c-c47ba2ead9d6.png)
+## Character Set ##
+
+![TAS](https://user-images.githubusercontent.com/34974280/174557771-7fef65f1-659d-42cb-b937-986c5bd15849.png)
 
 - - - -
 
@@ -22,14 +27,13 @@ Weight        | Style        | Slope
 600           | Semi Bold    | 14º
 700           | Bold         | 14º
 
-## Using Open Type Features ##
+- - - -
 
-To access alternate glyphs in Adobe InDesign or Illustrator, choose *Window > Type & Tables > Glyphs*.
+## Ongoing Development ##
 
-In Photoshop, choose *Window > Glyphs*. In the panel that opens, click *Show menu* and choose *Alternates for Selection*. Double-click an alternate's thumbnail to swap them out.
+Design work for the Precursive variation has been completed and is currently awaiting a team member to implement.
 
-More info about using Open Type features [here](https://www.fonts.com/content/learning/fontology/level-4/fine-typography/locating-alternate-glyphs).
-
+![alts](https://user-images.githubusercontent.com/34974280/174559398-9be2386f-fe57-43b0-a5f0-8bc65ec92f0d.png)
 
 - - - -
 
@@ -40,7 +44,9 @@ More info about using Open Type features [here](https://www.fonts.com/content/le
 Date          | Description
 ------------- | -------------
 Jan 10        | Initial commit
+Apr 10        | Precursive design submitted
 Jun 18        | First release
+Jun 20        | Reset default font size to 11pt
 
 - - - -
 
