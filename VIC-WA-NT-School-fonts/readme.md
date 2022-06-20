@@ -1,15 +1,18 @@
 # VIC-WA-NT School Fonts
 
+Students in Victoria, Western Australia and Northern Territory learn Label Print from years 1 to 3 and Infant Cursive from year 4. 
+
 This font includes:
 
-- Label Print - a simple sloped print for early primary school
-- Infant Cursive - transitional joining letter alternates
-
-Students in Victoria, Western Australia and Northern Territory learn Label Print from years 1 to 3 and Infant Cursive from year 4. 
+Completed | Name | Description
+| :---: | ---: | :---
+✅ | Label Print | a simple sloped print for early primary school
+❌ | Infant Cursive | transitional joining letter alternates
+❌ | Label Small Caps | decorative variation for heading styles & emphasis etc
 
 - - - -
 
-![VIC](https://user-images.githubusercontent.com/34974280/174458318-5dca98e4-8990-4086-8fb6-ef0aa5242262.png)
+![VIC](https://user-images.githubusercontent.com/34974280/174561473-55180d7c-7526-4171-aa81-6719fac60477.png)
 
 - - - -
 
@@ -22,14 +25,11 @@ Weight        | Style        | Slope
 600           | Semi Bold    | 10º
 700           | Bold         | 10º
 
-## Using Open Type Features ##
+## Ongoing Development ##
 
-To access alternate glyphs in Adobe InDesign or Illustrator, choose *Window > Type & Tables > Glyphs*.
+Design work for the Precursive variation has been completed and is currently awaiting a team member to implement.
 
-In Photoshop, choose *Window > Glyphs*. In the panel that opens, click *Show menu* and choose *Alternates for Selection*. Double-click an alternate's thumbnail to swap them out.
-
-More info about using Open Type features [here](https://www.fonts.com/content/learning/fontology/level-4/fine-typography/locating-alternate-glyphs).
-
+![alternates](https://user-images.githubusercontent.com/34974280/174562042-63f3b790-3ac9-4b14-a1b1-b7419a089dd6.png)
 
 - - - -
 
@@ -40,7 +40,9 @@ More info about using Open Type features [here](https://www.fonts.com/content/le
 Date          | Description
 ------------- | -------------
 Jan 10        | Initial commit
+Apr 10        | Precursive design submitted
 Jun 18        | First release
+Jun 20        | Reset default font size to 11pt
 
 - - - -
 
@@ -51,6 +53,8 @@ Copyright (c) 2022 The AU School Handwriting Fonts Project Authors (https://gith
 These Fonts are licensed under the SIL Open Font License, Version 1.1. This license is copied [here](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/blob/main/OFL.txt "SIL Open Font License"), and is also available with a FAQ at: (https://scripts.sil.org/OFL).
 
 The fonts files themselves also contain licensing and authorship metadata.
+
+- - - -
 
 # Repository Layout #
 
