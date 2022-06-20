@@ -39,9 +39,9 @@ Australian Capital Territory (ACT) | Foundation Print | ✅ | Foundation Precurs
 Queensland (QLD) | QBeginners Print | ✅ | QBeginners Precursive | ❌ | ✅ | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/QLD-School-Fonts "Read more")
 South Australia (SA) | Beginner Print | ✅ | Precursive Print | ❌ | ❌ | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/SA-School-Fonts "Read more")
 Tasmania (TAS) | Beginner Print | ✅ | Precursive Print | ❌ | ❌ | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/TAS-School-Fonts "Read more")
-Victoria (VIC) | Print | ✅ | Infant Cursive | ❌ | ❌ | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
-Western Australia (WA) | Print | ✅ | Infant Cursive | ❌ | ❌ | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
-Northern Territory (NT) | Print | ✅ | Infant Cursive | ❌ | ❌ | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+Victoria (VIC) | Label Print | ✅ | Infant Cursive | ❌ | ❌ | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+Western Australia (WA) | Label Print | ✅ | Infant Cursive | ❌ | ❌ | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
+Northern Territory (NT) | Label Print | ✅ | Infant Cursive | ❌ | ❌ | [Read more](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/tree/main/VIC-WA-NT-School-fonts "Read more")
 
 ```
 Base: Denotes the basic print version of the font.
