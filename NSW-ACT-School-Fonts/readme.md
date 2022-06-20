@@ -47,6 +47,8 @@ In Pages (Mac only) click *Format > Font > Show Fonts*, then from the *Fonts* pa
 Date          | Description
 ------------- | -------------
 Jan 10        | Initial commit
+Apr 10        | Submitted design for small caps and precursive variation
+May 20        | Precursive and small caps implemented
 Jun 18        | First release
 Jun 20        | Adjusted default font size to 11pt
 
