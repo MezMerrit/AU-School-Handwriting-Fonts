@@ -99,7 +99,9 @@ The full cursive counterparts (for years 4-5 onward) will be developed in due co
 
 # About This Project #
 
-This project contains the binary font files for all Australian states. Each family's subdirectory contains the .ttf font file sets, as well as source files.
+This project contains the binary font files for all Australian states. Google Workspace users are provided standard versions online, however they may download or build the complete OpenType versions from GitHub for local installations.
+
+Each family's subdirectory contains the .ttf font file sets, as well as source files. Standard installation instructions are provided above, otherwise instructions for the build tools are provided below.
 
 - - - -
 
