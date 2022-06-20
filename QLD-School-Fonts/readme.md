@@ -12,6 +12,8 @@ Completed | Name | Description
 
 - - - -
 
+## Character Set ##
+
 ![QLD](https://user-images.githubusercontent.com/34974280/174540298-8cdaa6dc-c615-49ea-89b5-b84fd076c78d.png)
 
 - - - -
@@ -25,9 +27,13 @@ Weight        | Style        | Slope
 600           | Semi Bold    | 10º
 700           | Bold         | 10º
 
+- - - -
+
 ## Ongoing Development ##
 
 Design work for the Precursive variation has been completed and is currently awaiting a team member to implement.
+
+![alternates](https://user-images.githubusercontent.com/34974280/174541618-9643dc13-bcc6-4f7e-bd12-034ad28a919f.png)
 
 - - - -
 
