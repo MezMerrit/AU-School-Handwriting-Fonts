@@ -43,6 +43,7 @@ Date          | Description
 ------------- | -------------
 Jan 10        | Initial commit
 Apr 10        | Precursive design submitted
+May 28        | Precursive delayed
 Jun 18        | First release
 Jun 20        | Adjusted default font size to 11pt
 
