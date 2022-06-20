@@ -8,7 +8,7 @@ Google Workspace users are provided standard versions online, however they may d
 
 - - - -
 
-![sample 001](https://user-images.githubusercontent.com/34974280/174480772-0263a627-f43b-49bd-9ca0-935cd7906826.png)
+![sample](https://user-images.githubusercontent.com/34974280/174619693-326823ef-5541-4aa9-a538-301661f3a1d6.png)
 
 - - - -
 
