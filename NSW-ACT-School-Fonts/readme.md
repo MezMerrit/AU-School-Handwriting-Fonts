@@ -6,8 +6,8 @@ This font includes:
 
 Completed | Name | Description
 | :---: | ---: | :---
-✅ | Foundation Manuscript | a simple sloped print for years 1 and 2 </br>
-✅ | Foundation PreCursive | transitional joining letter alternates for year 3+ </br>
+✅ | Foundation Manuscript | a simple sloped print for years 1 and 2
+✅ | Foundation PreCursive | transitional joining letter alternates for year 3+
 ✅ | Foundation Small Caps | decorative variation for heading styles & emphasis etc
 
 - - - -
@@ -40,7 +40,7 @@ In Pages (Mac only) click *Format > Font > Show Fonts*, then from the *Fonts* pa
 
 - - - -
 
-# Changelog #
+# Fontlog #
 
 **2022 Version 1.001**
 

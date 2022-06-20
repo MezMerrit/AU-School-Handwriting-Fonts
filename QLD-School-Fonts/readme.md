@@ -5,7 +5,7 @@ Students in Queensland learn QBeginners from years 1 to 3 and QBeginners Precurs
 This font includes:
 
 Completed | Name | Description
-| :---: | :--- | :---
+| :---: | ---: | :---
 ✅ | QBeginners Alphabet | a simple sloped print for early primary school
 ❌ | QBeginners Precursive | transitional joining letter alternates
 ✅ | Small Caps | decorative variation for heading styles & emphasis etc
@@ -37,7 +37,7 @@ Design work for the Precursive variation has been completed and is currently awa
 
 - - - -
 
-# Changelog #
+# Fontlog #
 
 **2022 Version 1.001**
 
