@@ -48,6 +48,24 @@ Jun 20        | Adjusted default font size to 11pt
 
 - - - -
 
+# Credits #
+
+### Typeface Artist ###
+- Corey Anderson
+
+### Typeface Designer ###
+- Tina Anderson
+
+### Team Leads ###
+- David Berlow (The Font Bureau, Inc)
+- Dave Crossland (Google Fonts)
+
+### Typeface Engineers ###
+- Rosalie Wagner (Google Fonts)
+- Santiago Orozco (The Font Bureau, Inc)
+
+- - - -
+
 # License #
 
 Copyright (c) 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)
@@ -55,6 +73,8 @@ Copyright (c) 2022 The AU School Handwriting Fonts Project Authors (https://gith
 These Fonts are licensed under the SIL Open Font License, Version 1.1. This license is copied [here](https://github.com/MezMerrit/AU-School-Handwriting-Fonts/blob/main/OFL.txt "SIL Open Font License"), and is also available with a FAQ at: (https://scripts.sil.org/OFL).
 
 The fonts files themselves also contain licensing and authorship metadata.
+
+- - - -
 
 # Repository Layout #
 

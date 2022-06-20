@@ -138,19 +138,19 @@ If you find a problem with a font file or have a request for the future developm
 
 # Credits #
 
-### Calligraphy Artist ###
+### Typeface Artist ###
 - Corey Anderson
 
 ### Typeface Designer ###
 - Tina Anderson
 
 ### Team Leads ###
-- David Berlow
-- Dave Crossland
+- David Berlow (The Font Bureau, Inc)
+- Dave Crossland (Google Fonts)
 
-### Typeface Production ###
-- Rosalie Wagner 
-- Santiago Orozco
+### Typeface Engineers ###
+- Rosalie Wagner (Google Fonts)
+- Santiago Orozco (The Font Bureau, Inc)
 
 - - - -
 
