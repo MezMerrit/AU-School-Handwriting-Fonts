@@ -44,6 +44,7 @@ Design work for the Precursive variation has been completed and is currently awa
 Date          | Description
 ------------- | -------------
 Jan 10        | Initial commit
+Apr 10        | Precursive design submitted
 Jun 18        | First release
 Jun 20        | Reset default font size to 11pt
 
