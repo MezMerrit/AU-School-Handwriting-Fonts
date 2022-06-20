@@ -2,7 +2,7 @@
 
 The AU School Handwriting Fonts are an English language, OpenType, variable typeface family designed specifically to meet Australian Education standards.  While weights and widths and optical sizes were carefully crafted to work well in an Australian classroom environment, they are just as comfortable to read and work with in the home environment. 
 
-AU School Handwriting Fonts range in weights from 300 to 600, making them useful for print media as well. Default versions of the fonts come with OpenType features to aid in transitional stages between learning basic handwriting to the initial cursive stage. Each font contains every possible character produced by an English language keyboard, including common math symbols used by Australian students from Years 1 to 4.
+AU School Handwriting Fonts range in weights from 400 to 700, making them useful for print media as well. Default versions of the fonts come with OpenType features to aid in transitional stages between learning basic handwriting to the initial cursive stage. Each font contains every possible character produced by an English language keyboard, including common math symbols used by Australian students from Years 1 to 4.
 
 - - - -
 
