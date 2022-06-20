@@ -12,6 +12,8 @@ Completed | Name | Description
 
 - - - -
 
+## Character Set ##
+
 ![VIC](https://user-images.githubusercontent.com/34974280/174564167-e419061a-0482-46cd-aef5-89327d445fbc.png)
 
 - - - -
@@ -24,6 +26,8 @@ Weight        | Style        | Slope
 500           | Medium       | 10º
 600           | Semi Bold    | 10º
 700           | Bold         | 10º
+
+- - - -
 
 ## Ongoing Development ##
 
