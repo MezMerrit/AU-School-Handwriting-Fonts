@@ -9,7 +9,7 @@ Students in South Australia learn the Beginners Alphabet from years 1 and 2, mov
 
 - - - -
 
-![SA](https://user-images.githubusercontent.com/34974280/174457836-84ef379d-fc03-404f-a77d-5efcddc6b6b8.png)
+![SA](https://user-images.githubusercontent.com/34974280/174547740-80f83185-fcb8-40a7-87af-a4469799d777.png)
 
 - - - -
 
