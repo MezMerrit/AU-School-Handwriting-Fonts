@@ -155,7 +155,11 @@ Thanks to "Google for Education" for supporting little Australian schoolies and 
 Date          | Description
 ------------- | -------------
 Jan 10        | Initial commit
+Apr 10        | Submitted designs for all precursive sets
 Jun 18        | First release
+Jun 20        | Reset initial font sizes to 11pt
+
+* Refer to each font's ReadMe for further updates.
 
 - - - -
 
