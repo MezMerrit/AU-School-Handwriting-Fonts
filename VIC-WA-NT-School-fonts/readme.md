@@ -12,7 +12,7 @@ Completed | Name | Description
 
 - - - -
 
-![VIC](https://user-images.githubusercontent.com/34974280/174561473-55180d7c-7526-4171-aa81-6719fac60477.png)
+![VIC](https://user-images.githubusercontent.com/34974280/174564167-e419061a-0482-46cd-aef5-89327d445fbc.png)
 
 - - - -
 
