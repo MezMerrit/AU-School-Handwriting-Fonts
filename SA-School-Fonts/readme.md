@@ -1,19 +1,22 @@
 # SA School Fonts
 
-This font-set includes:
-
-- Beginner Alphabet - a simple sloped print for early primary school
-- Precursive Print - transitional joining letter alternates 
-
 Students in South Australia learn the Beginners Alphabet from years 1 and 2, moving on to Pre-Cursive from year 3.
 
+This font includes:
+
+Completed | Name | Description
+| :---: | ---: | :---
+✅ | Beginner Print | a simple sloped print for early primary school
+❌ | Beginner PreCursive | transitional joining letter alternates for year 3+
+❌ | Beginner Small Caps | decorative variation for heading styles & emphasis etc
+
 - - - -
 
-![SA](https://user-images.githubusercontent.com/34974280/174547740-80f83185-fcb8-40a7-87af-a4469799d777.png)
+![SA](https://user-images.githubusercontent.com/34974280/174548472-9eb56fd0-77ea-459c-ba18-e7672f660e53.png)
 
 - - - -
 
-## Font Styles ##
+## Standard Font Weights ##
 
 Weight        | Style        | Slope
 ------------- | -------------| -------------
@@ -22,14 +25,13 @@ Weight        | Style        | Slope
 600           | Semi Bold    | 6º
 700           | Bold         | 6º
 
-## Using Open Type Features ##
+- - - -
 
-To access alternate glyphs in Adobe InDesign or Illustrator, choose *Window > Type & Tables > Glyphs*.
+## Ongoing Development ##
 
-In Photoshop, choose *Window > Glyphs*. In the panel that opens, click *Show menu* and choose *Alternates for Selection*. Double-click an alternate's thumbnail to swap them out.
+Design work for the Precursive variation has been completed and is currently awaiting a team member to implement.
 
-More info about using Open Type features [here](https://www.fonts.com/content/learning/fontology/level-4/fine-typography/locating-alternate-glyphs).
-
+![alts](https://user-images.githubusercontent.com/34974280/174550844-2dbf3918-793e-4aab-be88-39c88a581d87.png)
 
 - - - -
 
@@ -40,7 +42,9 @@ More info about using Open Type features [here](https://www.fonts.com/content/le
 Date          | Description
 ------------- | -------------
 Jan 10        | Initial commit
+Apr 10        | Precursive design submitted
 Jun 18        | First release
+Jun 20        | Adjusted default font size to 11pt
 
 - - - -
 
