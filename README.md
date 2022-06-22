@@ -22,7 +22,7 @@ The fonts can also be used in software that supports OpenType Fonts (such as Ado
 
 Additionally, AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. Adjusting the fonts to fit dotted thirds pre-ruled mediums can be achieved using Adobe products.
 
-Each font directory contains a stabdalone OpenType Font Viewer with which to inspect that font's scalability without installing it or any additional software.
+Each font directory contains a standalone OpenType Font Viewer with which to inspect that font's scalability without installing it or any additional software.
 
 - - - -
 
