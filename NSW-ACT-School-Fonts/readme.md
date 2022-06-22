@@ -35,8 +35,13 @@ In Photoshop, choose *Window > Glyphs*. In the panel that opens, click *Show men
 
 In Pages (Mac only) click *Format > Font > Show Fonts*, then from the *Fonts* panel click the burger menu and choose *Typography*.
 
+- - - -
+
 ![Pages](https://user-images.githubusercontent.com/34974280/174490884-cc6b3630-c1d4-4711-b878-0ff5e73a1cf2.gif)
 
+- - - -
+
+![Sample](https://user-images.githubusercontent.com/34974280/175120824-a26681ff-91a6-4f1f-94c3-7e3ce71f4521.png)
 
 - - - -
 
