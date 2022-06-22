@@ -14850,7 +14850,7 @@ name = hStem0;
 name = vStem0;
 }
 );
-unitsPerEm = 1188;
+unitsPerEm = 1000;
 userData = {
 GSDontShowVersionAlert = 1;
 com.schriftgestaltung.Glyphs.groupsNotInFeature = (
