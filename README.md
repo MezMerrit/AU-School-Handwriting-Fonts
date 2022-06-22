@@ -165,6 +165,7 @@ Jan 10        | Initial commit
 Apr 10        | Submitted designs for all precursive sets
 Jun 18        | First release
 Jun 20        | Reset initial font sizes to 11pt
+Jun 23        | Adjusted linespacing for print mediums
 
 * Refer to each font's ReadMe for further updates.
 
