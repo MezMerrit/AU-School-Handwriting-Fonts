@@ -56,6 +56,7 @@ Apr 10        | Submitted design for small caps and precursive variation
 May 20        | Precursive and small caps implemented
 Jun 18        | First release
 Jun 20        | Adjusted default font size to 11pt
+Jun 23        | Adjusted linespacing for print mediums
 
 - - - -
 
@@ -70,6 +71,7 @@ Jun 20        | Adjusted default font size to 11pt
 ### Team Leads ###
 - David Berlow (The Font Bureau, Inc)
 - Dave Crossland (Google Fonts)
+- Chris Betcher (Google for Education)
 
 ### Typeface Engineers ###
 - Rosalie Wagner (Google Fonts)

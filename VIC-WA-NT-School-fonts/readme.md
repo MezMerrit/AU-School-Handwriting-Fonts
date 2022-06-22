@@ -48,6 +48,7 @@ Apr 10        | Precursive design submitted
 May 28        | Precursive delayed
 Jun 18        | First release
 Jun 20        | Reset default font size to 11pt
+Jun 23        | Adjusted linespacing for print mediums
 
 - - - -
 
@@ -62,6 +63,7 @@ Jun 20        | Reset default font size to 11pt
 ### Team Leads ###
 - David Berlow (The Font Bureau, Inc)
 - Dave Crossland (Google Fonts)
+- Chris Betcher (Google for Education)
 
 ### Typeface Engineers ###
 - Rosalie Wagner (Google Fonts)

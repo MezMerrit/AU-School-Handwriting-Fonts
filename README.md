@@ -148,6 +148,7 @@ If you find a problem with a font file or have a request for the future developm
 ### Team Leads ###
 - David Berlow (The Font Bureau, Inc)
 - Dave Crossland (Google Fonts)
+- Chris Betcher (Google for Education)
 
 ### Typeface Engineers ###
 - Rosalie Wagner (Google Fonts)
