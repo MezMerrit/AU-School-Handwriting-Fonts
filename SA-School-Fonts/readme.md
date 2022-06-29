@@ -15,6 +15,8 @@ Completed | Name | Description
 
 - - - -
 
+## Character Set ##
+
 ![SA](https://user-images.githubusercontent.com/34974280/174548472-9eb56fd0-77ea-459c-ba18-e7672f660e53.png)
 
 - - - -
