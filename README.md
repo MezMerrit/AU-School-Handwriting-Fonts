@@ -22,6 +22,10 @@ The fonts can also be used in software that supports OpenType Fonts (such as Ado
 
 Additionally, AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. Adjusting the fonts to fit dotted thirds pre-ruled mediums can be achieved using Adobe products.
 
+Also provided here is watermarks.zip containing dotted-thirds, plain-thirds and regular-rule images that may be used in any word processor that supports watermarks (example below is Pages on Mac).
+
+![pages-watermark](https://user-images.githubusercontent.com/34974280/176444108-ea7e5d84-6b28-44dd-bc3f-6b13680e6026.gif)
+
 Each font directory contains a standalone OpenType Font Viewer with which to inspect that font's scalability without installing it or any additional software.
 
 - - - -
