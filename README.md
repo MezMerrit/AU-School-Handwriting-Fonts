@@ -12,24 +12,6 @@ Google Workspace users are provided standard versions online, however they may d
 
 - - - -
 
-## Features ##
-
-The regular weight of the font family is intended to imitate the pencil thickness of actual handwriting, however the scalability of the fonts enables them to be widely varied according to intended usage.
-
-The fonts can also be used in software that supports OpenType Fonts (such as Adobe products or Mac's native Pages application) to make full use of alternate glyphs for precursive variations (as shown below).
-
-![opentype-ani](https://user-images.githubusercontent.com/34974280/174490884-cc6b3630-c1d4-4711-b878-0ff5e73a1cf2.gif)
-
-Additionally, AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. Adjusting the fonts to fit dotted thirds pre-ruled mediums can be achieved using Adobe products.
-
-Also provided here is watermarks.zip containing dotted-thirds, plain-thirds and regular-rule images that may be used in any word processor that supports watermarks (example below is Mac's Pages app using Image Fill or Advanced Image Fill).
-
-![pages-watermark](https://user-images.githubusercontent.com/34974280/176444108-ea7e5d84-6b28-44dd-bc3f-6b13680e6026.gif)
-
-Each font directory contains a standalone OpenType Font Viewer with which to inspect that font's scalability without installing it or any additional software.
-
-- - - -
-
 ## Description ##
 
 In lower primary school some Australian States teach different handwriting styles, while some States share the same style. The "documentation" subdirectories contain PDF's for each State's style requirements.
@@ -54,6 +36,24 @@ SMC: Denotes whether ✅ or not ❌ small caps glyphs are currently included.
 
 * Additions will be made to this guide as they are completed and the fonts are updated.
 ```
+
+- - - -
+
+## Features ##
+
+The regular weight of the font family is intended to imitate the pencil thickness of actual handwriting, however the scalability of the fonts enables them to be widely varied according to intended usage.
+
+The fonts can also be used in software that supports OpenType Fonts (such as Adobe products or Mac's native Pages application) to make full use of alternate glyphs for precursive variations (as shown below).
+
+![opentype-ani](https://user-images.githubusercontent.com/34974280/174490884-cc6b3630-c1d4-4711-b878-0ff5e73a1cf2.gif)
+
+Additionally, AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. Adjusting the fonts to fit dotted thirds pre-ruled mediums can be achieved using Adobe products.
+
+Also provided here is watermarks.zip containing dotted-thirds, plain-thirds and regular-rule images that may be used in any word processor that supports watermarks (example below is Mac's Pages app using Image Fill or Advanced Image Fill).
+
+![pages-watermark](https://user-images.githubusercontent.com/34974280/176444108-ea7e5d84-6b28-44dd-bc3f-6b13680e6026.gif)
+
+Each font directory contains a standalone OpenType Font Viewer with which to inspect that font's scalability without installing it or any additional software.
 
 - - - -
 
