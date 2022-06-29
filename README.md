@@ -53,13 +53,11 @@ Also provided here is watermarks.zip containing dotted-thirds, plain-thirds and 
 
 ![pages-watermark](https://user-images.githubusercontent.com/34974280/176444108-ea7e5d84-6b28-44dd-bc3f-6b13680e6026.gif)
 
-Each font directory contains a standalone OpenType Font Viewer with which to inspect that font's scalability without installing it or any additional software.
-
 - - - -
 
 ## View and/or Install the Fonts ##
 
-To view the variable fonts without installing them:
+Each font directory contains a standalone OpenType Font Viewer with which to inspect that font's scalability without installing it or any additional software. To view the variable fonts without installing them:
 
 <details>
    <summary>Click here</summary>
