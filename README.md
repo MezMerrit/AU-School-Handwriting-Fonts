@@ -53,6 +53,8 @@ Also provided here is watermarks.zip containing dotted-thirds, plain-thirds and 
 
 ![pages-watermark](https://user-images.githubusercontent.com/34974280/176444108-ea7e5d84-6b28-44dd-bc3f-6b13680e6026.gif)
 
+By adjusting the scaling of the watermark image, the document's top margin and line spacing as well as the font size, almost any type of ruled page can be produced.
+
 - - - -
 
 ## View and/or Install the Fonts ##
