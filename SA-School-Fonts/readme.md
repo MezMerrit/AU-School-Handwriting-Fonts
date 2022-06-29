@@ -10,6 +10,9 @@ Completed | Name | Description
 ❌ | Beginner PreCursive | transitional joining letter alternates for year 3+
 ❌ | Beginner Small Caps | decorative variation for heading styles & emphasis etc
 
+
+![SA-variable](https://user-images.githubusercontent.com/34974280/176464065-a4d60c6b-94a2-4c8d-acb2-bffca396d49e.gif)
+
 - - - -
 
 ![SA](https://user-images.githubusercontent.com/34974280/174548472-9eb56fd0-77ea-459c-ba18-e7672f660e53.png)
