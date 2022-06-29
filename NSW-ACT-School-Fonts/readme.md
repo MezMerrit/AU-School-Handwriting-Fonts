@@ -10,7 +10,6 @@ Completed | Name | Description
 ✅ | Foundation PreCursive | transitional joining letter alternates for year 3+
 ✅ | Foundation Small Caps | decorative variation for heading styles & emphasis etc
 
-- - - -
 
 ![NSW-variable](https://user-images.githubusercontent.com/34974280/176457672-5b9bdf31-b996-45ce-ab58-005e66dff401.gif)
 
