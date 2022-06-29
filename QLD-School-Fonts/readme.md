@@ -10,6 +10,9 @@ Completed | Name | Description
 ❌ | QBeginners Precursive | transitional joining letter alternates
 ✅ | Small Caps | decorative variation for heading styles & emphasis etc
 
+
+![QLD-variable](https://user-images.githubusercontent.com/34974280/176461653-8b937e78-66a7-4cae-9103-f5fddcfe57f2.gif)
+
 - - - -
 
 ## Character Set ##
