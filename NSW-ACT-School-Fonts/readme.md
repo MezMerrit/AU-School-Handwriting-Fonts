@@ -12,6 +12,10 @@ Completed | Name | Description
 
 - - - -
 
+![NSW-variable](https://user-images.githubusercontent.com/34974280/176457672-5b9bdf31-b996-45ce-ab58-005e66dff401.gif)
+
+- - - -
+
 ## Character Set ##
 
 ![glyphs](https://user-images.githubusercontent.com/34974280/174497609-d0fcf5d5-ea7f-4632-8aa2-5f3060e6c0d9.png)
