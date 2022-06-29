@@ -10,6 +10,9 @@ Completed | Name | Description
 ❌ | Beginner PreCursive | transitional joining letter alternates for year 3+
 ❌ | Beginner Small Caps | decorative variation for heading styles & emphasis etc
 
+
+![TAS-variable](https://user-images.githubusercontent.com/34974280/176466245-9907898c-4867-46d7-9059-0f68917e704b.gif)
+
 - - - -
 
 ## Character Set ##
