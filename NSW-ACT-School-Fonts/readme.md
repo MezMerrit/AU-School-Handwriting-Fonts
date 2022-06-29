@@ -40,10 +40,6 @@ In Pages app (Mac only) click *Format > Font > Show Fonts*, then from the *Fonts
 
 - - - -
 
-![Pages](https://user-images.githubusercontent.com/34974280/174490884-cc6b3630-c1d4-4711-b878-0ff5e73a1cf2.gif)
-
-- - - -
-
 # Fontlog #
 
 **2022 Version 1.001**
