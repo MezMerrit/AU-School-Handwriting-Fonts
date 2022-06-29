@@ -10,6 +10,9 @@ Completed | Name | Description
 ❌ | Infant Cursive | transitional joining letter alternates
 ❌ | Label Small Caps | decorative variation for heading styles & emphasis etc
 
+
+![VIC-variable](https://user-images.githubusercontent.com/34974280/176468230-d0aeaeff-787b-4008-910d-27cc8a971d55.gif)
+
 - - - -
 
 ## Character Set ##
