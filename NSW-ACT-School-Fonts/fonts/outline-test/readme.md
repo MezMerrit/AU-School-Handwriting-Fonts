@@ -1,4 +1,4 @@
-#NSW ACT Foundation Outline - with and without arrows
+## NSW ACT Foundation Outline - with and without arrows ##
 
 Please note the outline font is under construction - it is not yet production ready but you are welcome to try it. Add a new issue if you see something that needs attention.
 
