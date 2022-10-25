@@ -112,6 +112,7 @@ If you find a problem with a font file or have a request for the future developm
 - Tina Anderson
 
 ### Team Leads ###
+- Eben Sorkin (Sorkin Type Co)
 - David Berlow (The Font Bureau, Inc)
 - Dave Crossland (Google Fonts)
 - Chris Betcher (Google for Education)
