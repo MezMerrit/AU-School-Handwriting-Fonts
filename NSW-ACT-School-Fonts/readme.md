@@ -7,7 +7,10 @@ This font includes:
 Completed | Name | Description
 | :---: | ---: | :---
 ✅ | Foundation Manuscript | a simple sloped print for years 1 and 2
-✅ | Foundation PreCursive | transitional joining letter alternates for year 3+
+❌ | Foundation Outline | an outlined version of manuscript (with or without arrows)
+❌ | Foundation Dotted | a dotted version of manuscript for tracing letters
+✅ | Foundation PreCursive | transitional joining letter alternates for year 3
+❌ | Foundation Cursive | Fully joined letters for years 4+
 ✅ | Foundation Small Caps | decorative variation for heading styles & emphasis etc
 
 
@@ -39,6 +42,10 @@ In Photoshop, choose *Window > Glyphs*. In the panel that opens, click *Show men
 In Pages app (Mac only) click *Format > Font > Show Fonts*, then from the *Fonts* panel click the burger menu and choose *Typography*.
 
 - - - -
+
+# Future Development #
+
+Outline and Outline with arrows and Dotted variations are currently under way, along with cursive. Check the table above for progress indicators.
 
 # Fontlog #
 
