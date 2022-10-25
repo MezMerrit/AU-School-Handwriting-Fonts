@@ -61,9 +61,9 @@ By adjusting the scaling of the watermark image, the document's top margin and l
 
 ## Ongoing & Future Development ##
 
-Some transitional precursive alternate glyph-sets are still under development, along with some small caps. Advanced math symbols will also come along with future development.
+Some transitional precursive alternate glyph-sets are still under development, along with some small caps. The full cursive counterparts (for years 4-5 onward) are under way, along with Outline, Outline Arrows and Dotted variations.
 
-The full cursive counterparts (for years 4-5 onward) will be developed in due course, using a different software package designed specifically for cursive fonts in school/teaching environments. 
+Watch the table above for progress notification.
 
 - - - -
 
