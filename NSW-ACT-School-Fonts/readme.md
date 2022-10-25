@@ -37,6 +37,8 @@ Weight        | Style        | Slope
 
 To access alternate glyphs in Adobe InDesign or Illustrator, choose *Window > Type & Tables > Glyphs*.
 
+In MS Word choose Format > Font, then in the font panel, click the Advanced tab. Choose between 1 to 3 Stylistic sets, or use together with contextual alternates and ligatures options for other variations.
+
 In Photoshop, choose *Window > Glyphs*. In the panel that opens, click *Show menu* and choose *Alternates for Selection*. Double-click an alternate's thumbnail to swap them out.
 
 In Pages app (Mac only) click *Format > Font > Show Fonts*, then from the *Fonts* panel click the burger menu and choose *Typography*.
