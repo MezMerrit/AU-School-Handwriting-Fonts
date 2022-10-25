@@ -10,7 +10,7 @@ Completed | Name | Description
 ❌ | Foundation Outline | an outlined version of manuscript (with or without arrows)
 ❌ | Foundation Dotted | a dotted version of manuscript for tracing letters
 ✅ | Foundation PreCursive | transitional joining letter alternates for year 3
-❌ | Foundation Cursive | Fully joined letters for years 4+
+❌ | Foundation Cursive | fully joined letters for years 4+
 ✅ | Foundation Small Caps | decorative variation for heading styles & emphasis etc
 
 
@@ -45,7 +45,7 @@ In Pages app (Mac only) click *Format > Font > Show Fonts*, then from the *Fonts
 
 # Future Development #
 
-Outline and Outline with arrows and Dotted variations are currently under way, along with cursive. Check the table above for progress indicators.
+Outline, Outline with arrows and Dotted variations are currently under way, along with joined cursive. Watch the table above for progress indicators - green checkmarks will appear once the font family has been imported to Google Workspace.
 
 # Fontlog #
 
