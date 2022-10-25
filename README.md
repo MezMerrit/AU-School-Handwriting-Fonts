@@ -57,46 +57,6 @@ By adjusting the scaling of the watermark image, the document's top margin and l
 
 - - - -
 
-## View and/or Install the Fonts ##
-
-Each font directory contains a standalone OpenType Font Viewer with which to inspect that font's scalability without installing it or any additional software. To view the variable fonts without installing them:
-
-<details>
-   <summary>Click here</summary>
-
-Click the link above matching the Australian State that you live in. Then:
-
-1. Download the font-viewer.zip file and unpack it. 
-2. Double-click the .html file.
-3. Adjust the sliders at the top of the page.
-
-![Font Viewer](https://user-images.githubusercontent.com/34974280/174448031-b3235cea-d3f9-4194-9a05-d9e2d5585775.png)
-
-</details>
-
-To manually install the fonts choose an option:
-
-<details>
-  <summary>Windows</summary>
-
-1. Open the *Windows Control Panel*
-2. Select *Appearance and Personalization*
-3. At the bottom, select *Fonts*
-4. To add a font, simply drag the .ttf file into the font window.
-5. Click Click Yes when prompted.
-
-</details>
-<details>
-  <summary>Mac</summary>
-
-1. Double-click the .ttf file
-2. Click Install Font in the font preview window
-3. After validation, it will open in the Font Book app
-
-</details>
-
-- - - -
-
 ## Ongoing & Future Development ##
 
 Some transitional precursive alternate glyph-sets are still under development, along with some small caps. Advanced math symbols will also come along with future development.
