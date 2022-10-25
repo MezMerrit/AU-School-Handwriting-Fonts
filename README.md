@@ -43,9 +43,11 @@ SMC: Denotes whether ✅ or not ❌ small caps glyphs are currently included.
 
 The regular weight of the font family is intended to imitate the pencil thickness of actual handwriting, however the scalability of the fonts enables them to be widely varied according to intended usage.
 
-The fonts can also be used in software that supports OpenType Fonts (such as Adobe products or Mac's native Pages application) to make full use of alternate glyphs for precursive variations (as shown below).
+The fonts can also be used in software that supports OpenType Fonts (such as Adobe products, MS Word or Mac's native Pages app) to make full use of alternate glyphs for precursive variations (as shown below).
 
 ![opentype-ani](https://user-images.githubusercontent.com/34974280/174490884-cc6b3630-c1d4-4711-b878-0ff5e73a1cf2.gif)
+
+![msword-demo](https://user-images.githubusercontent.com/34974280/197845580-0026e7f5-263a-48c8-8a75-34bde86830ae.gif)
 
 Additionally, AU School Handwriting Fonts are purposefully designed with minimal under and over shoot at Cap Height, X-Height, Baseline and Descender, making them perfect for use by teachers. Adjusting the fonts to fit dotted thirds pre-ruled mediums can be achieved using Adobe products.
 
