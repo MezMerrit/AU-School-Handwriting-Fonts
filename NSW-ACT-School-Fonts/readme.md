@@ -61,6 +61,7 @@ May 20        | Precursive and small caps implemented
 Jun 18        | First release
 Jun 20        | Adjusted default font size to 11pt
 Jun 23        | Adjusted linespacing for print mediums
+Oct 15        | Started outlines and dots development
 
 - - - -
 
